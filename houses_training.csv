@@ -1,0 +1,3001 @@
+No;lokasi;kamar_tidur;kamar_mandi;luas_rumah;luas_tanah;harga;jenis_rumah
+1;Cimanggis;3;2;100;60;550000000;Sederhana
+2;Sukmajaya;3;2;141;200;2600000000;Menengah
+3;Cinere;6;4;434;795;4500000000;Mewah
+4;Sawangan;2;1;40;60;250000000;Sederhana
+5;Cimanggis;3;2;66;85;845000000;Menengah
+6;Cimanggis;2;1;41;40;399823000;Sederhana
+7;Cimanggis;2;1;42;63;590696000;Sederhana
+8;Pancoran Mas;3;2;60;60;495000000;Sederhana
+9;Pancoran Mas;1;1;25;21;307000000;Sederhana
+10;Sawangan;3;2;68;115;868800000;Menengah
+11;Cilodong;1;1;24;30;155000000;Sederhana
+12;Bojongsari;2;1;40;84;630000000;Menengah
+13;Cipayung;2;1;45;52;270000000;Sederhana
+14;Cinere;3;2;105;98;1500000000;Menengah
+15;Tapos;4;2;115;70;650000000;Sederhana
+16;Sawangan;2;1;45;70;590000000;Sederhana
+17;Pancoran Mas;3;2;88;72;780000000;Sederhana
+18;Cilodong;3;2;75;126;1000000000;Menengah
+19;Cimanggis;3;2;80;50;550000000;Sederhana
+20;Sawangan;2;1;36;60;285000000;Sederhana
+21;Cilodong;2;1;36;61;501800000;Sederhana
+22;Sawangan;2;2;56;82;756900000;Menengah
+23;Pancoran Mas;2;1;36;66;586000000;Sederhana
+24;Sawangan;2;1;36;60;295000000;Sederhana
+25;Cimanggis;3;2;100;56;570000000;Sederhana
+26;Cilodong;2;1;24;42;243000000;Sederhana
+27;Pancoran Mas;3;2;60;62;674000000;Sederhana
+28;Sawangan;2;1;40;82;447000000;Menengah
+29;Sawangan;2;1;30;61;373117000;Sederhana
+30;Sawangan;2;1;36;72;440000000;Sederhana
+31;Cinere;3;2;70;90;805000000;Menengah
+32;Tapos;3;2;85;52;545000000;Sederhana
+33;Cimanggis;3;3;80;60;885000000;Sederhana
+34;Sawangan;2;1;39;74;469000000;Sederhana
+35;Bojongsari;3;2;69;72;550000000;Sederhana
+36;Pancoran Mas;2;1;34;72;495000000;Sederhana
+37;Cilodong;2;2;70;85;865000000;Menengah
+38;Sawangan;2;1;40;84;446000000;Menengah
+39;Cilodong;2;1;31;76;319900000;Sederhana
+40;Beji;5;2;180;100;1400000000;Menengah
+41;Cinere;2;2;50.7;40;850000000;Sederhana
+42;Cipayung;3;1;60;104;435000000;Menengah
+43;Cilodong;2;1;40;81;474000000;Menengah
+44;Cinere;3;2;72;78;1280000000;Sederhana
+45;Bojongsari;2;1;36;71.5;385000000;Sederhana
+46;Cimanggis;6;6;275;200;2900000000;Menengah
+47;Sawangan;3;2;70;63;725000000;Sederhana
+48;Pancoran Mas;3;1;60;68;707000000;Sederhana
+49;Cimanggis;3;2;110;74;699000000;Sederhana
+50;Cipayung;2;1;45;70;320000000;Sederhana
+51;Cipayung;2;1;40;65;356000000;Sederhana
+52;Pancoran Mas;4;4;118;89;1150000000;Menengah
+53;Cinere;4;3;300;575;4500000000;Mewah
+54;Cinere;2;1;45;84;681400000;Menengah
+55;Cinere;3;2;67;68;948000000;Sederhana
+56;Sukmajaya;3;3;104;109;1825000000;Menengah
+57;Cipayung;2;1;36;84;352500000;Menengah
+58;Sawangan;2;1;45;84;679000000;Menengah
+59;Cilodong;2;1;42;72;566000000;Sederhana
+60;Pancoran Mas;3;2;131;218;1000000000;Mewah
+61;Beji;3;3;120;100;1600000000;Menengah
+62;Cimanggis;3;2;66;83;839000000;Menengah
+63;Cimanggis;3;2;100;65;580000000;Sederhana
+64;Cinere;4;3;168;144;1190923194;Menengah
+65;Cimanggis;3;2;110;70;650000000;Sederhana
+66;Bojongsari;2;1;40;84;644000000;Menengah
+67;Cinere;2;1;45;72;624700000;Sederhana
+68;Sawangan;3;1;56;97;660000000;Menengah
+69;Bojongsari;2;1;40;84;644000000;Menengah
+70;Cinere;3;2;60;96;1856250000;Menengah
+71;Sawangan;2;1;40;85;447000000;Menengah
+72;Sawangan;3;2;60;60;495000000;Sederhana
+73;Bojongsari;3;2;160;320;1800000000;Mewah
+74;Cimanggis;2;1;36;83;583000000;Menengah
+75;Sukmajaya;2;1;36;120;950000000;Menengah
+76;Pancoran Mas;4;3;130;81;1150025000;Menengah
+77;Cimanggis;2;1;36;66;680000000;Sederhana
+78;Sawangan;4;3;75;72;875000000;Sederhana
+79;Sawangan;3;1;200;600;1250000000;Mewah
+80;Pancoran Mas;3;3;125;89;1200000000;Menengah
+81;Sawangan;2;1;39;72;584000000;Sederhana
+82;Sawangan;2;1;45;84;679000000;Menengah
+83;Bojongsari;2;1;36;84;712000000;Menengah
+84;Bojongsari;2;1;40;84;659000000;Menengah
+85;Cilodong;9;7;104;102;650000000;Menengah
+86;Cinere;4;3;255;400;3500000000;Mewah
+87;Sawangan;2;2;40;84;644000000;Menengah
+88;Cilodong;3;2;60;60;495000000;Sederhana
+89;Cinere;3;2;72;78;1280000000;Sederhana
+90;Tapos;3;2;91;96;1682192000;Menengah
+91;Cinere;4;4;222;180;1190923194;Menengah
+92;Cinere;3;2;135;230;1650000000;Mewah
+93;Pancoran Mas;2;2;180;243;2000000000;Mewah
+94;Pancoran Mas;3;2;90;130;1430000000;Menengah
+95;Cimanggis;3;2;80;50;550000000;Sederhana
+96;Cimanggis;2;2;65;78;1107500000;Sederhana
+97;Pancoran Mas;3;3;150;100;1375000000;Menengah
+98;Cinere;4;4;500;1636;13000000000;Mewah
+99;Bojongsari;2;2;47;66;757000000;Sederhana
+100;Pancoran Mas;3;2;88;72;780000000;Sederhana
+101;Bojongsari;2;1;30;60;665280000;Sederhana
+102;Tapos;2;1;36;53;472500000;Sederhana
+103;Cilodong;2;1;45;76;600000000;Sederhana
+104;Bojongsari;2;2;56;90;965000000;Menengah
+105;Sawangan;2;2;60;80;620000000;Menengah
+106;Tapos;2;2;50;60;628950000;Sederhana
+107;Bojongsari;3;2;60;64;975744000;Sederhana
+108;Pancoran Mas;2;1;55;120;1085000000;Menengah
+109;Pancoran Mas;3;2;90;130;1440000000;Menengah
+110;Bojongsari;3;2;69;145;1250000000;Menengah
+111;Cinere;3;3;250;200;3600000000;Menengah
+112;Sawangan;3;2;90;229;550000000;Mewah
+113;Tapos;3;2;80;50;550000000;Sederhana
+114;Cilodong;4;3;200;400;3000000000;Mewah
+115;Cimanggis;3;2;70;123;1290000000;Menengah
+116;Cimanggis;2;2;80;129;1200000000;Menengah
+117;Cilodong;2;1;24;61;363000000;Sederhana
+118;Pancoran Mas;10;10;2713;6401;52474300000;Mewah
+119;Bojongsari;3;2;65;108;1178000000;Menengah
+120;Cimanggis;3;3;100;84;1927000000;Menengah
+121;Bojongsari;2;2;55;66;790000000;Sederhana
+122;Bojongsari;2;1;40;84;644000000;Menengah
+123;Cilodong;2;1;36;78;642600000;Sederhana
+124;Cimanggis;4;3;147;144;3434000000;Menengah
+125;Cilodong;3;2;81;81;787750000;Menengah
+126;Bojongsari;3;2;81;120;1256250000;Menengah
+127;Cimanggis;2;2;82;72;1580760000;Sederhana
+128;Bojongsari;2;2;60;90;950000000;Menengah
+129;Cimanggis;3;3;110;102;2341000000;Menengah
+130;Bojongsari;2;1;50;96;912000000;Menengah
+131;Pancoran Mas;4;4;326;250;4800000000;Mewah
+132;Cimanggis;3;2;65;66;880000000;Sederhana
+133;Pancoran Mas;2;1;48;89;680000000;Menengah
+134;Cinere;4;3;350;170;2650000000;Menengah
+135;Cimanggis;3;2;66;84;839000000;Menengah
+136;Bojongsari;2;2;60;96;1054000000;Menengah
+137;Cimanggis;2;1;36;60;550000000;Sederhana
+138;Bojongsari;2;2;68;128;1310000000;Menengah
+139;Bojongsari;2;1;30;60;665280000;Sederhana
+140;Sukmajaya;2;1;42;69;625000000;Sederhana
+141;Tapos;3;3;102;112;1901833000;Menengah
+142;Bojongsari;3;3;120;200;2215000000;Menengah
+143;Cilodong;3;3;120;90;1100000000;Menengah
+144;Cimanggis;2;2;82;72;1581000000;Sederhana
+145;Bojongsari;2;1;55;96;1020000000;Menengah
+146;Bojongsari;3;4;131;144;1411500000;Menengah
+147;Bojongsari;3;2;120;200;2105000000;Menengah
+148;Sawangan;2;1;48;105;475000000;Menengah
+149;Bojongsari;3;2;70;90;1009000000;Menengah
+150;Tapos;3;3;117;128;2177254000;Menengah
+151;Cimanggis;2;2;62;52;980000000;Sederhana
+152;Sawangan;2;1;40;64;290000000;Sederhana
+153;Cipayung;2;1;36;50;245000000;Sederhana
+154;Bojongsari;2;1;30;35;250000000;Sederhana
+155;Sawangan;2;1;36;60;200000000;Sederhana
+156;Pancoran Mas;2;1;40;65;290000000;Sederhana
+157;Cipayung;2;1;40;40;160000000;Sederhana
+158;Cipayung;2;1;36;50;195000000;Sederhana
+159;Cilodong;3;2;75;69;750000000;Sederhana
+160;Cipayung;2;1;33;33;130000000;Sederhana
+161;Sawangan;2;1;30;50;269000000;Sederhana
+162;Cipayung;2;1;33;33;218000000;Sederhana
+163;Bojongsari;2;1;36;90;425000000;Menengah
+164;Sawangan;3;1;100;50;385000000;Sederhana
+165;Sawangan;2;1;40;60;250000000;Sederhana
+166;Cilodong;2;1;45;60;586000000;Sederhana
+167;Cinere;3;2;80;96;950000000;Menengah
+168;Pancoran Mas;4;3;247;504;3500000000;Mewah
+169;Pancoran Mas;2;1;1;36;185000000;Sederhana
+170;Cilodong;2;1;40;53;300000000;Sederhana
+171;Sawangan;2;1;40;60;250000000;Sederhana
+172;Cipayung;2;1;40;40;150000000;Sederhana
+173;Sawangan;2;1;111;232;650000000;Mewah
+174;Sukmajaya;3;1;70;90;460000000;Menengah
+175;Cinere;4;3;200;220;2500000000;Mewah
+176;Bojongsari;2;2;70;72;740000000;Sederhana
+177;Cipayung;2;1;55;55;235000000;Sederhana
+178;Beji;3;2;81;90;1400000000;Menengah
+179;Sawangan;3;2;75;150;950000000;Menengah
+180;Sawangan;3;2;160;216;700000000;Mewah
+181;Sawangan;3;2;160;216;600000000;Mewah
+182;Sawangan;2;1;30;61;298000000;Sederhana
+183;Sawangan;3;2;74;131;868800000;Menengah
+184;Cinere;5;4;460;322;4700000000;Mewah
+185;Cipayung;2;1;40;40;155000000;Sederhana
+186;Cinere;2;3;76;60;1200000000;Sederhana
+187;Sawangan;3;2;60;92;765000000;Menengah
+188;Cinere;3;3;250;254;2900000000;Mewah
+189;Sawangan;3;2;70;90;800000000;Menengah
+190;Cilodong;4;3;186;180;1700000000;Menengah
+191;Pancoran Mas;2;1;45;81;550000000;Menengah
+192;Sawangan;3;2;170;90;1200000000;Menengah
+193;Sawangan;3;2;85;70;750000000;Sederhana
+194;Pancoran Mas;3;2;75;107;970000000;Menengah
+195;Cinere;7;5;700;500;7000000000;Mewah
+196;Cimanggis;3;2;60;72;649000000;Sederhana
+197;Cilodong;2;1;56;118;710000000;Menengah
+198;Cimanggis;3;3;80;80;888000000;Menengah
+199;Sukmajaya;4;1;85;102;700000000;Menengah
+200;Beji;3;3;120;104;975000000;Menengah
+201;Cinere;4;4;400;591;5900000000;Mewah
+202;Pancoran Mas;3;2;70;96;760000000;Menengah
+203;Cilodong;3;2;150;401;850000000;Mewah
+204;Cipayung;2;1;40;40;165000000;Sederhana
+205;Sawangan;2;1;45;60;295000000;Sederhana
+206;Cipayung;2;1;36;36;135000000;Sederhana
+207;Pancoran Mas;2;1;30;50;265000000;Sederhana
+208;Pancoran Mas;3;3;70;115;955000000;Menengah
+209;Cimanggis;3;2;60;65;605000000;Sederhana
+210;Sawangan;4;2;130;150;1100000000;Menengah
+211;Sawangan;3;1;50;65;617000000;Sederhana
+212;Cimanggis;2;1;54;84;549005000;Menengah
+213;Cimanggis;2;1;36;50;251000000;Sederhana
+214;Sukmajaya;2;2;65;80;425000000;Menengah
+215;Pancoran Mas;2;1;65;228;1250000000;Mewah
+216;Cimanggis;2;2;60;120;760000000;Menengah
+217;Tapos;4;2;80;209;1350000000;Mewah
+218;Sukmajaya;3;1;90;90;500000000;Menengah
+219;Cinere;4;3;115;105;1350000000;Menengah
+220;Sukmajaya;3;3;110;96;1500000000;Menengah
+221;Sukmajaya;2;1;45;85;682000000;Menengah
+222;Cimanggis;3;2;80;70;933000000;Sederhana
+223;Cipayung;36;2;2;60;235000000;Sederhana
+224;Cinere;3;2;115;105;1400000000;Menengah
+225;Pancoran Mas;3;3;115;67;985000000;Sederhana
+226;Sawangan;3;1;45;70;300000000;Sederhana
+227;Cipayung;2;1;45;72;350000000;Sederhana
+228;Pancoran Mas;2;2;50;76;735000000;Sederhana
+229;Tapos;2;2;120;90;915000000;Menengah
+230;Beji;2;2;88;49;695000000;Sederhana
+231;Sawangan;2;1;40;66;295000000;Sederhana
+232;Sukmajaya;2;1;90;90;450000000;Menengah
+233;Beji;3;3;86;60;950000000;Sederhana
+234;Pancoran Mas;3;2;80;105;675000000;Menengah
+235;Cimanggis;4;3;75;75;815000000;Sederhana
+236;Pancoran Mas;3;2;97;100;370000000;Menengah
+237;Sawangan;4;4;150;200;1600000000;Menengah
+238;Cilodong;3;2;60;60;750000000;Sederhana
+239;Beji;3;2;85;50;450000000;Sederhana
+240;Sawangan;4;2;146;250;1400000000;Mewah
+241;Sawangan;3;3;100;120;950000000;Menengah
+242;Pancoran Mas;2;1;42;65;459000000;Sederhana
+243;Pancoran Mas;2;1;40;90;810000000;Menengah
+244;Pancoran Mas;4;3;168;220;1500000000;Mewah
+245;Cilodong;3;2;140;77;1000000000;Sederhana
+246;Tapos;5;3;200;278;1400000000;Mewah
+247;Sawangan;2;1;60;125;800000000;Menengah
+248;Sawangan;2;1;57;127;650000000;Menengah
+249;Sawangan;3;2;115;134;1100000000;Menengah
+250;Cimanggis;2;1;30;65;508000000;Sederhana
+251;Pancoran Mas;3;2;80;90;625000000;Menengah
+252;Pancoran Mas;2;1;40;60;450000000;Sederhana
+253;Sawangan;3;2;97;120;985000000;Menengah
+254;Sawangan;6;2;100;309;1300000000;Mewah
+255;Pancoran Mas;3;2;72;7000000;900000000;Mewah
+256;Sawangan;3;2;86;75;715000000;Sederhana
+257;Sukmajaya;3;2;150;90;680000000;Menengah
+258;Beji;3;3;90;81;1143300000;Menengah
+259;Beji;3;2;150;180;950000000;Menengah
+260;Beji;3;3;115;89;1250000000;Menengah
+261;Beji;6;4;300;250;1800000000;Mewah
+262;Beji;3;2;78;60;750000000;Sederhana
+263;Cimanggis;2;1;30;52;257000000;Sederhana
+264;Beji;2;1;45;72;750000000;Sederhana
+265;Sukmajaya;2;1;90;90;450000000;Menengah
+266;Pancoran Mas;2;1;44;77;539000000;Sederhana
+267;Beji;5;2;90;109;950000000;Menengah
+268;Cilodong;2;2;90;72;425000000;Sederhana
+269;Beji;2;1;45;70;680000000;Sederhana
+270;Beji;4;3;120;104;1185000000;Menengah
+271;Pancoran Mas;2;1;36;72;397000000;Sederhana
+272;Beji;4;2;170;210;850000000;Mewah
+273;Sukmajaya;2;1;45;72;550000000;Sederhana
+274;Pancoran Mas;4;3;100;72;895000000;Sederhana
+275;Sawangan;2;1;36;60;200000000;Sederhana
+276;Sawangan;3;2;100;140;950000000;Menengah
+277;Bojongsari;4;4;200;296;1300000000;Mewah
+278;Sukmajaya;2;2;140;113;980000000;Menengah
+279;Sukmajaya;3;3;130;130;750000000;Menengah
+280;Beji;2;1;45;72;750000000;Sederhana
+281;Beji;4;4;147;122;1850000000;Menengah
+282;Cinere;6;6;1000;975;10000000000;Mewah
+283;Cimanggis;3;2;110;60;720000000;Sederhana
+284;Beji;3;3;136;127;1250000000;Menengah
+285;Sukmajaya;3;2;150;90;680000000;Menengah
+286;Cimanggis;4;2;120;229;850000000;Mewah
+287;Beji;14;0;101;183;1350000000;Menengah
+288;Beji;3;3;120;85;925000000;Menengah
+289;Pancoran Mas;2;1;45;52;255000000;Sederhana
+290;Pancoran Mas;3;2;96;96;450000000;Menengah
+291;Beji;2;2;80;90;700000000;Menengah
+292;Bojongsari;1;1;24;24;225000000;Sederhana
+293;Sawangan;2;1;40;60;295000000;Sederhana
+294;Cimanggis;7;6;800;1450;7500000000;Mewah
+295;Pancoran Mas;2;1;40;72;394000000;Sederhana
+296;Pancoran Mas;2;1;50;70;350000000;Sederhana
+297;Pancoran Mas;2;1;50;73;385000000;Sederhana
+298;Bojongsari;2;1;45;60;295000190;Sederhana
+299;Sawangan;2;1;40;55;260000000;Sederhana
+300;Sukmajaya;3;1;75;90;365000000;Menengah
+301;Sukmajaya;3;2;65;85;685000000;Menengah
+302;Cimanggis;3;2;69;82;992000000;Menengah
+303;Pancoran Mas;3;2;250;510;3850000000;Mewah
+304;Cilodong;2;1;32;60;280000000;Sederhana
+305;Cipayung;2;1;36;68;293000000;Sederhana
+306;Sukmajaya;4;2;160;160;1450000000;Menengah
+307;Cipayung;2;1;45;60;320000000;Sederhana
+308;Cipayung;2;2;46;37;484000000;Sederhana
+309;Pancoran Mas;2;1;40;60;375000000;Sederhana
+310;Cimanggis;3;3;70;44;686000000;Sederhana
+311;Beji;3;3;170;191;1500000000;Menengah
+312;Cipayung;2;1;40;60;270000000;Sederhana
+313;Pancoran Mas;2;1;45;45;165000000;Sederhana
+314;Pancoran Mas;3;2;160;216;700000000;Mewah
+315;Cilodong;2;2;45;84;520000000;Menengah
+316;Beji;3;3;110;67;1100000000;Sederhana
+317;Cimanggis;5;5;400;275;2500000000;Mewah
+318;Cinere;3;2;115;105;1400000000;Menengah
+319;Cimanggis;4;2;140;290;800000000;Mewah
+320;Pancoran Mas;3;2;120;78;875000000;Sederhana
+321;Cinere;3;3;350;400;5500000000;Mewah
+322;Cilodong;2;2;78;78;480000000;Sederhana
+323;Pancoran Mas;2;1;40;60;255000000;Sederhana
+324;Beji;2;2;50;54;845000000;Sederhana
+325;Cinere;3;3;150;97;1450000000;Menengah
+326;Beji;3;3;110;70;975000000;Sederhana
+327;Sukmajaya;2;2;65;83;550000000;Menengah
+328;Pancoran Mas;2;1;54;100;370000000;Menengah
+329;Sukmajaya;2;1;90;90;450000000;Menengah
+330;Sukmajaya;2;1;90;90;550000000;Menengah
+331;Beji;0;0;300;255;2500000000;Mewah
+332;Pancoran Mas;3;1;70;230;800000000;Mewah
+333;Cinere;3;3;130;90;1300000000;Menengah
+334;Sukmajaya;2;1;40;80;298000000;Menengah
+335;Sukmajaya;3;1;70;97;485000000;Menengah
+336;Sawangan;2;2;36;60;295000000;Sederhana
+337;Cimanggis;2;2;60;105;220000000;Menengah
+338;Beji;3;3;150;117;1500000000;Menengah
+339;Sawangan;3;2;100;100;385000000;Menengah
+340;Cinere;7;5;550;1135;9000000000;Mewah
+341;Beji;4;3;230;137;950000000;Menengah
+342;Pancoran Mas;2;1;55;60;290000000;Sederhana
+343;Beji;2;1;80;111;860000000;Menengah
+344;Sukmajaya;2;1;90;96;400000000;Menengah
+345;Beji;3;2;300;567;4000000000;Mewah
+346;Cilodong;5;4;400;282;8000000000;Mewah
+347;Pancoran Mas;2;1;45;73;620000000;Sederhana
+348;Cimanggis;2;1;36;72;495000000;Sederhana
+349;Pancoran Mas;2;1;45;72;500000000;Sederhana
+350;Sukmajaya;5;3;200;323;2000000000;Mewah
+351;Cilodong;3;2;130;157;849000000;Menengah
+352;Sukmajaya;4;2;124;124;800000000;Menengah
+353;Sukmajaya;3;1;120;90;675000000;Menengah
+354;Beji;3;2;120;125;875000000;Menengah
+355;Cimanggis;3;2;90;55;550000000;Sederhana
+356;Cimanggis;3;2;69;70;839320000;Sederhana
+357;Beji;2;1;42;59;700000000;Sederhana
+358;Sawangan;2;1;33;60;281350000;Sederhana
+359;Sukmajaya;2;1;50;80;595000000;Menengah
+360;Sawangan;2;1;60;97;550000000;Menengah
+361;Sukmajaya;3;2;100;150;600000000;Menengah
+362;Cilodong;2;1;36;63;229600000;Sederhana
+363;Pancoran Mas;2;1;50;65;250000000;Sederhana
+364;Pancoran Mas;2;1;54;66;385000000;Sederhana
+365;Pancoran Mas;3;2;75;120;785000000;Menengah
+366;Pancoran Mas;3;3;369;220;1400000000;Mewah
+367;Cimanggis;5;5;800;1600;11000000000;Mewah
+368;Beji;2;1;45;70;680000000;Sederhana
+369;Pancoran Mas;2;1;70;70;370000000;Sederhana
+370;Cilodong;2;1;40;81;474000000;Menengah
+371;Cimanggis;3;3;122;105;1750000000;Menengah
+372;Cipayung;2;1;45;70;435000000;Sederhana
+373;Beji;4;4;220;110;1500000000;Menengah
+374;Sawangan;3;1;50;102;399000000;Menengah
+375;Sukmajaya;3;1;90;90;500000000;Menengah
+376;Cimanggis;3;3;65;44;686000000;Sederhana
+377;Beji;2;1;45;72;750000000;Sederhana
+378;Sukmajaya;2;1;45;80;550000000;Menengah
+379;Pancoran Mas;3;2;80;105;730000000;Menengah
+380;Cimanggis;2;1;36;64;447500000;Sederhana
+381;Cimanggis;3;2;110;72;750000000;Sederhana
+382;Pancoran Mas;3;1;80;100;350000000;Menengah
+383;Bojongsari;2;1;40;60;500000000;Sederhana
+384;Cipayung;2;1;45;73;450000000;Sederhana
+385;Cimanggis;3;3;120;100;1800000000;Menengah
+386;Bojongsari;2;1;45;112;630000000;Menengah
+387;Pancoran Mas;3;2;100;140;599000000;Menengah
+388;Sawangan;2;1;55;78;325000000;Sederhana
+389;Cimanggis;5;2;160;150;875000000;Menengah
+390;Sawangan;4;3;120;90;800000000;Menengah
+391;Cimanggis;5;2;160;150;875000000;Menengah
+392;Pancoran Mas;3;2;100;140;599000000;Menengah
+393;Sawangan;3;2;150;160;1100000000;Menengah
+394;Sawangan;3;2;115;150;1250000000;Menengah
+395;Cipayung;2;1;36;50;265000000;Sederhana
+396;Pancoran Mas;2;1;53;90;475000000;Menengah
+397;Cilodong;3;2;70;60;850000000;Sederhana
+398;Cilodong;5;5;100;400;975000000;Mewah
+399;Sukmajaya;2;1;45;70;648000000;Sederhana
+400;Sawangan;2;1;40;60;295000000;Sederhana
+401;Tapos;3;2;80;120;650000000;Menengah
+402;Cilodong;2;1;56;93;650000000;Menengah
+403;Sukmajaya;4;2;124;124;800000000;Menengah
+404;Beji;4;2;60;127;1300000000;Menengah
+405;Beji;2;1;48;84;600000000;Menengah
+406;Pancoran Mas;7;6;550;319;5500000000;Mewah
+407;Sawangan;3;2;100;150;1200000000;Menengah
+408;Sawangan;3;2;120;126;1250000000;Menengah
+409;Beji;4;3;150;290;5000000000;Mewah
+410;Cimanggis;2;2;50;49;517000000;Sederhana
+411;Cimanggis;3;2;66;99;929000000;Menengah
+412;Pancoran Mas;4;3;175;200;1000000000;Menengah
+413;Bojongsari;2;1;36;60;270000000;Sederhana
+414;Cimanggis;3;2;101;62;700000000;Sederhana
+415;Beji;4;2;100;160;800000000;Menengah
+416;Cimanggis;2;1;30;52;257000000;Sederhana
+417;Cinere;3;2;90;126;1840000000;Menengah
+418;Pancoran Mas;2;1;40;61;471525000;Sederhana
+419;Beji;3;1;60;75;499000000;Sederhana
+420;Cimanggis;3;2;100;62;550000000;Sederhana
+421;Bojongsari;2;1;36;60;270000000;Sederhana
+422;Cimanggis;3;2;100;62;550000000;Sederhana
+423;Cimanggis;2;1;30;52;257000000;Sederhana
+424;Pancoran Mas;2;1;100;100;550000000;Menengah
+425;Pancoran Mas;2;2;88;90;600000000;Menengah
+426;Sawangan;6;5;500;1059;3200000000;Mewah
+427;Cimanggis;3;2;250;400;2000000000;Mewah
+428;Cinere;6;6;1364;1280;1500000000;Mewah
+429;Sawangan;2;1;40;60;285000000;Sederhana
+430;Sukmajaya;2;1;90;96;400000000;Menengah
+431;Sawangan;3;2;86;75;715000000;Sederhana
+432;Cimanggis;4;3;200;266;2400000000;Mewah
+433;Cimanggis;2;1;40;74;300000000;Sederhana
+434;Cipayung;2;1;36;60;349000000;Sederhana
+435;Sawangan;3;2;80;117;590000000;Menengah
+436;Cimanggis;3;2;80;100;800000000;Menengah
+437;Beji;2;1;50;77;790000000;Sederhana
+438;Sawangan;1;1;70;81;525000000;Menengah
+439;Sawangan;2;1;50;66;305000000;Sederhana
+440;Sawangan;2;2;290;290;800000000;Mewah
+441;Sukmajaya;3;2;80;114;1350000000;Menengah
+442;Sawangan;5;3;240;260;2200000000;Mewah
+443;Sawangan;3;2;68;80;465000000;Menengah
+444;Cimanggis;3;2;80;60;865000000;Sederhana
+445;Sukmajaya;3;2;80;102;850000000;Menengah
+446;Bojongsari;2;1;40;84;629000000;Menengah
+447;Cimanggis;2;1;40;60;662395000;Sederhana
+448;Sawangan;2;1;40;114;600000000;Menengah
+449;Sukmajaya;4;3;300;250;1350000000;Mewah
+450;Beji;3;2;190;300;2200000000;Mewah
+451;Beji;2;1;45;74;565000000;Sederhana
+452;Beji;3;1;76;76;650000000;Sederhana
+453;Sawangan;5;3;378;268;2400000000;Mewah
+454;Sukmajaya;2;2;60;100;725000000;Menengah
+455;Cinere;3;3;150;105;2300000000;Menengah
+456;Cinere;2;1;75;75;165000000;Sederhana
+457;Sukmajaya;2;1;45;70;645000000;Sederhana
+458;Sukmajaya;2;1;65;80;650000000;Menengah
+459;Cinere;3;4;250;200;3700000000;Menengah
+460;Cilodong;2;1;75;80;235000000;Menengah
+461;Sawangan;5;4;300;334;1900000000;Mewah
+462;Sawangan;2;1;75;105;525000000;Menengah
+463;Beji;3;3;100;67;1050000000;Sederhana
+464;Cipayung;2;1;36;60;450000000;Sederhana
+465;Cilodong;3;2;90;80;600000000;Menengah
+466;Beji;2;1;45;70;660000000;Sederhana
+467;Beji;3;2;70;92;855000000;Menengah
+468;Bojongsari;2;1;56;95;870000000;Menengah
+469;Cinere;3;2;100;124;1000000000;Menengah
+470;Beji;5;4;321;212;1750000000;Mewah
+471;Cipayung;2;1;45;73;450000000;Sederhana
+472;Bojongsari;3;2;54;90;600000000;Menengah
+473;Sukmajaya;2;1;45;85;580000000;Menengah
+474;Beji;3;1;60;110;850000000;Menengah
+475;Sawangan;3;2;110;110;365000000;Menengah
+476;Limo;5;3;500;1024;6500000001;Mewah
+477;Cipayung;3;2;70;90;750000000;Menengah
+478;Cilodong;3;2;107;107;550000000;Menengah
+479;Beji;3;2;200;150;1200000000;Menengah
+480;Beji;3;2;80;60;900000000;Sederhana
+481;Cimanggis;2;1;30;50;288000000;Sederhana
+482;Cipayung;3;2;70;90;750000000;Menengah
+483;Cilodong;3;2;107;107;550000000;Menengah
+484;Cinere;4;4;500;635;12000000000;Mewah
+485;Cinere;6;6;750;1040;11500000000;Mewah
+486;Sawangan;2;1;90;198;800000000;Menengah
+487;Beji;3;2;180;91;1200000000;Menengah
+488;Beji;3;2;123;80;1175000000;Menengah
+489;Cinere;4;3;350;240;150000000;Mewah
+490;Pancoran Mas;2;1;45;90;380000000;Menengah
+491;Cilodong;2;1;85;85;200000000;Menengah
+492;Beji;2;1;60;79;670000000;Sederhana
+493;Pancoran Mas;3;3;80;72;750000000;Sederhana
+494;Cimanggis;3;2;69;72;620000000;Sederhana
+495;Pancoran Mas;3;2;105;89;950000000;Menengah
+496;Cilodong;2;2;60;104;650000000;Menengah
+497;Sawangan;2;2;72;60;595000000;Sederhana
+498;Bojongsari;3;2;80;84;770000000;Menengah
+499;Sukmajaya;3;1;118;118;650000000;Menengah
+500;Sawangan;2;1;72;36;400000000;Sederhana
+501;Sukmajaya;3;2;140;140;750000000;Menengah
+502;Sawangan;3;2;70;63;675000000;Sederhana
+503;Beji;3;3;150;101;900000000;Menengah
+504;Bojongsari;2;1;36;50;254000000;Sederhana
+505;Sawangan;5;2;120;135;650000000;Menengah
+506;Cipayung;2;1;40;40;140000000;Sederhana
+507;Cinere;2;1;30;60;260000000;Sederhana
+508;Cilodong;3;2;90;72;600000000;Sederhana
+509;Tapos;5;4;400;1200;3900000000;Mewah
+510;Pancoran Mas;2;1;45;85;375000000;Menengah
+511;Sukmajaya;2;2;90;90;650000000;Menengah
+512;Beji;4;3;127;100;1600000000;Menengah
+513;Pancoran Mas;2;1;45;85;375000000;Menengah
+514;Cipayung;2;1;45;54;385000000;Sederhana
+515;Sawangan;4;3;120;210;1000000000;Mewah
+516;Pancoran Mas;2;1;40;60;260000000;Sederhana
+517;Bojongsari;3;2;149;127;700000000;Menengah
+518;Cilodong;2;1;36;66;355000000;Sederhana
+519;Cipayung;0;0;0;0;300000000;Sederhana
+520;Sawangan;2;1;60;100;590000000;Menengah
+521;Cinere;4;2;235;2400;1600000000;Mewah
+522;Sukmajaya;0;0;35;47;350000000;Sederhana
+523;Sukmajaya;3;2;80;102;850000000;Menengah
+524;Bojongsari;3;2;69;84;850000000;Menengah
+525;Sukmajaya;3;2;58;53;680000000;Sederhana
+526;Cilodong;3;2;140;306;1900000000;Mewah
+527;Sawangan;2;1;45;70;385000000;Sederhana
+528;Sukmajaya;4;2;140;102;1200000000;Menengah
+529;Sukmajaya;2;1;65;96;395000000;Menengah
+530;Sawangan;3;2;52;77;390000000;Sederhana
+531;Cimanggis;2;2;45;75;583000000;Sederhana
+532;Cipayung;2;1;33;33;218000000;Sederhana
+533;Pancoran Mas;2;1;40;61;471525000;Sederhana
+534;Cilodong;2;1;30;41;455000000;Sederhana
+535;Bojongsari;2;1;70;72;585000000;Sederhana
+536;Cilodong;3;2;90;125;675000000;Menengah
+537;Beji;4;4;180;110;1350000000;Menengah
+538;Cinere;3;2;200;275;2000000000;Mewah
+539;Sawangan;2;1;45;102;550000000;Menengah
+540;Sukmajaya;3;1;102;102;550000000;Menengah
+541;Sukmajaya;3;1;102;102;550000000;Menengah
+542;Sawangan;2;1;45;102;550000000;Menengah
+543;Sawangan;2;1;45;65;250000000;Sederhana
+544;Sukmajaya;3;2;110;220;1450000000;Mewah
+545;Pancoran Mas;2;2;60;100;700000000;Menengah
+546;Beji;3;2;110;100;1100000000;Menengah
+547;Sukmajaya;4;2;104;160;910000000;Menengah
+548;Pancoran Mas;2;2;120;72;650000000;Sederhana
+549;Cipayung;2;1;35;60;172000000;Sederhana
+550;Cinere;4;3;180;121;2200000000;Menengah
+551;Sukmajaya;4;2;150;84;700000000;Menengah
+552;Sukmajaya;2;1;45;80;550000000;Menengah
+553;Sukmajaya;3;2;63;92;420000000;Menengah
+554;Beji;2;1;70;95;400000000;Menengah
+555;Cipayung;2;1;35;50;170000000;Sederhana
+556;Pancoran Mas;3;2;125;151;550000000;Menengah
+557;Cilodong;2;1;32;60;275000000;Sederhana
+558;Cimanggis;3;2;100;61;700000000;Sederhana
+559;Cimanggis;4;3;250;144;850000000;Menengah
+560;Sukmajaya;2;1;90;90;450000000;Menengah
+561;Sukmajaya;2;2;150;144;1700000000;Menengah
+562;Cinere;3;3;100;120;1850000000;Menengah
+563;Sukmajaya;2;1;90;96;400000000;Menengah
+564;Cinere;3;2;100;60;800000000;Sederhana
+565;Sukmajaya;2;1;90;90;495000000;Menengah
+566;Sukmajaya;2;1;60;84;500000000;Menengah
+567;Sawangan;2;1;36;60;235000000;Sederhana
+568;Sukmajaya;2;1;60;60;400000000;Sederhana
+569;Cilodong;3;2;70;100;650000000;Menengah
+570;Cipayung;2;1;36;60;260000000;Sederhana
+571;Cilodong;3;3;110;80;750000000;Menengah
+572;Beji;3;2;125;105;1380000000;Menengah
+573;Beji;4;5;170;120;1900000000;Menengah
+574;Sukmajaya;4;2;124;124;800000000;Menengah
+575;Pancoran Mas;6;6;400;800;15000000000;Mewah
+576;Beji;4;3;150;100;1400000000;Menengah
+577;Cimanggis;3;1;80;66;450000000;Sederhana
+578;Pancoran Mas;3;2;54;60;570000000;Sederhana
+579;Cilodong;2;1;36;72;352000000;Sederhana
+580;Cimanggis;4;4;300;825;6000000000;Mewah
+581;Sawangan;2;1;36;32;170000000;Sederhana
+582;Cilodong;2;2;83;92;325000000;Menengah
+583;Sawangan;2;1;45;60;235000000;Sederhana
+584;Sukmajaya;3;2;150;90;680000000;Menengah
+585;Sukmajaya;2;1;90;66;560000000;Sederhana
+586;Pancoran Mas;3;1;50;89;495000000;Menengah
+587;Cilodong;2;2;90;72;425000000;Sederhana
+588;Pancoran Mas;2;1;36;50;225000000;Sederhana
+589;Cipayung;2;1;36;60;230000000;Sederhana
+590;Beji;2;1;40;64;675000000;Sederhana
+591;Pancoran Mas;2;1;36;72;370000000;Sederhana
+592;Beji;2;1;48;84;600000000;Menengah
+593;Cipayung;2;1;36;72;330000000;Sederhana
+594;Pancoran Mas;2;1;45;78;550000000;Sederhana
+595;Sukmajaya;3;2;150;78;725000000;Sederhana
+596;Pancoran Mas;7;3;;1035;6000000000;Mewah
+597;Pancoran Mas;2;1;50;102;550000000;Menengah
+598;Cimanggis;5;2;200;128;1290000000;Menengah
+599;Beji;3;3;180;95;1500000000;Menengah
+600;Pancoran Mas;3;3;200;200;1200000000;Menengah
+601;Pancoran Mas;3;2;200;300;3000000000;Mewah
+602;Pancoran Mas;6;3;450;512;5900000000;Mewah
+603;Pancoran Mas;3;2;150;201;2200000000;Mewah
+604;Pancoran Mas;3;2;62;72;697000000;Sederhana
+605;Pancoran Mas;2;1;45;66;275000000;Sederhana
+606;Cinere;4;4;170;154;2400000000;Menengah
+607;Cilodong;3;2;96;60;580000000;Sederhana
+608;Cimanggis;3;2;70;123;1300000000;Menengah
+609;Sukmajaya;3;2;200;253;2500000000;Mewah
+610;Cimanggis;2;1;36;0;285000000;Sederhana
+611;Cilodong;3;2;100;96;375000000;Menengah
+612;Pancoran Mas;3;2;70;60;650000000;Sederhana
+613;Cilodong;4;4;247;240;1980000000;Mewah
+614;Beji;10;6;1030;587;9950000000;Mewah
+615;Beji;3;2;65;66;825000000;Sederhana
+616;Beji;2;2;60;89;680000000;Menengah
+617;Beji;2;1;40;49;489000000;Sederhana
+618;Beji;2;2;88;50;750000000;Sederhana
+619;Bojongsari;2;1;50;87;601000000;Menengah
+620;Sukmajaya;4;2;124;124;800000000;Menengah
+621;Cimanggis;2;1;36;84;228080000;Menengah
+622;Cilodong;3;2;120;60;600000000;Sederhana
+623;Cimanggis;8;6;800;1450;7500000000;Mewah
+624;Cimanggis;9;10;700;2000;9500000000;Mewah
+625;Cilodong;3;2;72;77;1200000000;Sederhana
+626;Bojongsari;2;1;36;72;385000000;Sederhana
+627;Pancoran Mas;2;1;40;61;450000000;Sederhana
+628;Sukmajaya;4;2;90;90;650000000;Menengah
+629;Sawangan;2;1;60;90;500000000;Menengah
+630;Cimanggis;3;2;150;75;1100000000;Sederhana
+631;Cimanggis;3;2;150;75;1100000000;Sederhana
+632;Sawangan;4;2;152;183;1100000000;Menengah
+633;Cimanggis;3;1;85;114;475000000;Menengah
+634;Cimanggis;6;5;679;1024;4888000000;Mewah
+635;Tapos;2;2;45;61;691000000;Sederhana
+636;Pancoran Mas;2;1;36;50;360000000;Sederhana
+637;Cinere;3;4;340;240;4600000000;Mewah
+638;Beji;2;1;36;78;698586780;Sederhana
+639;Beji;2;1;60;80;700000000;Menengah
+640;Pancoran Mas;2;1;45;63;460000000;Sederhana
+641;Beji;7;3;240;166;1700000000;Menengah
+642;Sawangan;3;2;70;72;498000000;Sederhana
+643;Beji;2;1;50;63;625000000;Sederhana
+644;Cimanggis;3;2;80;152;850000000;Menengah
+645;Cimanggis;3;2;150;331;1350000000;Mewah
+646;Cimanggis;2;1;54;95;669509000;Menengah
+647;Sukmajaya;4;1;90;90;400000000;Menengah
+648;Beji;2;1;43;51;547000000;Sederhana
+649;Cimanggis;2;1;45;67;400000000;Sederhana
+650;Cinere;3;3;76;60;962000000;Sederhana
+651;Cinere;2;1;59;91;670000000;Menengah
+652;Sawangan;3;2;68;74;500000000;Sederhana
+653;Pancoran Mas;3;2;105;89;980000000;Menengah
+654;Pancoran Mas;4;2;120;90;880000000;Menengah
+655;Pancoran Mas;2;1;36;51;295000000;Sederhana
+656;Beji;2;1;45;75;570000000;Sederhana
+657;Beji;2;1;45;70;650000000;Sederhana
+658;Sukmajaya;3;1;55;90;700000000;Menengah
+659;Beji;3;2;130;85;925000000;Menengah
+660;Cinere;2;1;40;62;350000000;Sederhana
+661;Beji;2;1;42;59;649500000;Sederhana
+662;Sukmajaya;2;1;120;271;1100000000;Mewah
+663;Sukmajaya;3;1;90;90;500000000;Menengah
+664;Sawangan;2;1;40;112;232000000;Menengah
+665;Cimanggis;2;1;36;50;259000000;Sederhana
+666;Sukmajaya;3;1;55;90;700000000;Menengah
+667;Cinere;2;1;40;62;350000000;Sederhana
+668;Cipayung;2;1;45;90;380000000;Menengah
+669;Cilodong;2;1;39;65;400000000;Sederhana
+670;Sawangan;2;1;30;61;298000000;Sederhana
+671;Beji;2;1;45;70;610000000;Sederhana
+672;Sukmajaya;4;2;124;124;800000000;Menengah
+673;Cimanggis;3;2;60;83;736000000;Menengah
+674;Bojongsari;3;2;68;70;472000000;Sederhana
+675;Beji;2;1;45;90;850000000;Menengah
+676;Pancoran Mas;2;2;90;103;900000000;Menengah
+677;Pancoran Mas;2;1;45;75;400000000;Sederhana
+678;Beji;2;2;105;102;1250000000;Menengah
+679;Sukmajaya;4;3;160;160;1450000000;Menengah
+680;Cimanggis;6;2;92;46;250000000;Sederhana
+681;Sawangan;2;1;45;90;504693698;Menengah
+682;Sukmajaya;6;5;199;274;1900000000;Mewah
+683;Cimanggis;2;1;36;50;254000000;Sederhana
+684;Beji;4;3;130;150;2000000000;Menengah
+685;Pancoran Mas;2;1;36;60;310000000;Sederhana
+686;Beji;2;1;80;234;1200000000;Mewah
+687;Bojongsari;1;1;21;40;195000000;Sederhana
+688;Bojongsari;2;1;36;63;375000000;Sederhana
+689;Pancoran Mas;4;4;712;693;5000000000;Mewah
+690;Beji;3;2;50;85;850000000;Menengah
+691;Beji;3;3;86;60;950000000;Sederhana
+692;Beji;3;2;100;85;950000000;Menengah
+693;Sawangan;0;0;70;84;670000000;Menengah
+694;Pancoran Mas;2;1;45;60;300000000;Sederhana
+695;Beji;10;4;510;510;3800000000;Mewah
+696;Cimanggis;3;2;40;45;398500000;Sederhana
+697;Cimanggis;3;2;96;60;666000000;Sederhana
+698;Cinere;2;1;45;92;618183000;Menengah
+699;Cinere;4;4;300;700;2200000000;Mewah
+700;Sukmajaya;2;2;140;113;1200000000;Menengah
+701;Cimanggis;3;3;100;85;1200000000;Menengah
+702;Cilodong;2;1;45;84;570000000;Menengah
+703;Sukmajaya;2;1;60;100;725000000;Menengah
+704;Cilodong;3;2;150;208;950000000;Mewah
+705;Cimanggis;0;0;36;60;300000000;Sederhana
+706;Pancoran Mas;2;1;70;105;750000000;Menengah
+707;Sawangan;2;2;42;60;500000000;Sederhana
+708;Sukmajaya;3;2;60;55;495000000;Sederhana
+709;Cilodong;2;1;38;60;398200000;Sederhana
+710;Beji;2;1;70;80;650000000;Menengah
+711;Beji;4;3;120;84;850000000;Menengah
+712;Sukmajaya;4;5;276;138;1200000000;Menengah
+713;Sukmajaya;3;2;124;93;1200000000;Menengah
+714;Sukmajaya;3;2;86;90;800000000;Menengah
+715;Cimanggis;2;1;36;70;220000000;Sederhana
+716;Cimanggis;3;2;70;70;765000000;Sederhana
+717;Cimanggis;2;1;30;52;257000000;Sederhana
+718;Cimanggis;8;7;800;1450;7500000000;Mewah
+719;Cimanggis;2;2;64;107;665000000;Menengah
+720;Pancoran Mas;2;1;50;120;500000000;Menengah
+721;Cilodong;3;1;142;86;900000000;Menengah
+722;Sawangan;3;3;250;271;1200000000;Mewah
+723;Cinere;4;3;400;325;3500000000;Mewah
+724;Cilodong;3;2;70;66;750000000;Sederhana
+725;Pancoran Mas;2;1;36;60;285000000;Sederhana
+726;Cinere;3;2;250;160;2700000000;Menengah
+727;Cimanggis;3;2;110;70;635000000;Sederhana
+728;Sawangan;3;2;100;120;850000000;Menengah
+729;Cinere;3;2;73;60;1270000000;Sederhana
+730;Beji;3;2;65;98;750000000;Menengah
+731;Cimanggis;2;1;36;50;252000000;Sederhana
+732;Beji;3;3;120;98;1300000000;Menengah
+733;Tapos;6;7;287;500;5500000000;Mewah
+734;Pancoran Mas;2;1;55;60;250000000;Sederhana
+735;Beji;2;1;43;66;598000000;Sederhana
+736;Sawangan;2;1;70;90;260000000;Menengah
+737;Beji;3;2;100;81;1200000000;Menengah
+738;Bojongsari;2;1;52;68;338000000;Sederhana
+739;Cinere;3;3;120;120;2000000000;Menengah
+740;Cinere;3;2;100;72;750000000;Sederhana
+741;Bojongsari;2;1;45;48;160000000;Sederhana
+742;Cinere;2;1;70;3;600000000;Sederhana
+743;Sukmajaya;3;2;94;115;950000000;Menengah
+744;Cilodong;3;2;60;70;400000000;Sederhana
+745;Pancoran Mas;3;2;70;80;650000000;Menengah
+746;Beji;2;1;108;141;1200000000;Menengah
+747;Cinere;2;1;49;76;600000000;Sederhana
+748;Sukmajaya;4;3;160;102;1100000000;Menengah
+749;Pancoran Mas;0;0;0;0;1190923194;Sederhana
+750;Cipayung;0;0;30;65;295000000;Sederhana
+751;Cilodong;2;1;30;33;165000000;Sederhana
+752;Pancoran Mas;3;3;187;180;2900000000;Menengah
+753;Cinere;3;2;100;227;4000000000;Mewah
+754;Sawangan;3;2;56;61;498500000;Sederhana
+755;Sawangan;4;2;126;480;1310000000;Mewah
+756;Pancoran Mas;5;3;220;300;2200000000;Mewah
+757;Pancoran Mas;2;1;42;75;529000000;Sederhana
+758;Sukmajaya;3;3;150;100;1200000000;Menengah
+759;Sukmajaya;13;13;1680;2103;20000000000;Mewah
+760;Sawangan;2;1;45;90;678000000;Menengah
+761;Cinere;2;1;70;60;500000000;Sederhana
+762;Beji;3;2;66;66;868000000;Sederhana
+763;Beji;3;2;120;163;1350000000;Menengah
+764;Sukmajaya;3;2;60;92;765000000;Menengah
+765;Sukmajaya;2;1;90;90;450000000;Menengah
+766;Beji;5;4;170;220;3200000000;Mewah
+767;Cilodong;4;3;120;200;1300000000;Menengah
+768;Cimanggis;2;1;22;61;194800000;Sederhana
+769;Beji;3;1;88;88;320000000;Menengah
+770;Pancoran Mas;2;1;36;61;475;Sederhana
+771;Pancoran Mas;3;3;114;84;1200000000;Menengah
+772;Sawangan;2;1;46;100;375000000;Menengah
+773;Cinere;3;2;65;70;850000000;Sederhana
+774;Pancoran Mas;2;1;45;1;270000000;Sederhana
+775;Sukmajaya;7;6;322;488;5000000000;Mewah
+776;Beji;5;4;105;90;1000000000;Menengah
+777;Cimanggis;2;1;36;50;170000000;Sederhana
+778;Cimanggis;2;1;54;72;550000000;Sederhana
+779;Cimanggis;8;7;700;1350;9000000000;Mewah
+780;Sawangan;2;1;40;67;265000000;Sederhana
+781;Beji;2;2;70;84;750000000;Menengah
+782;Sukmajaya;4;3;250;247;3300000000;Mewah
+783;Bojongsari;3;1;300;310;850000000;Mewah
+784;Beji;3;2;120;96;1250000000;Menengah
+785;Cimanggis;4;2;150;114;850000000;Menengah
+786;Pancoran Mas;2;1;36;50;249000000;Sederhana
+787;Cinere;3;3;370;351;3400000000;Mewah
+788;Cipayung;2;1;40;60;402000000;Sederhana
+789;Sawangan;3;3;200;125;900000000;Menengah
+790;Pancoran Mas;3;2;100;140;599000000;Menengah
+791;Cilodong;3;2;80;102;900000000;Menengah
+792;Cilodong;2;1;65;105;625000000;Menengah
+793;Sukmajaya;2;1;90;90;450000000;Menengah
+794;Sawangan;5;3;270;210;1700000000;Mewah
+795;Sawangan;2;1;45;72;350000000;Sederhana
+796;Cimanggis;2;1;42;68;479000000;Sederhana
+797;Pancoran Mas;6;5;300;334;1900000000;Mewah
+798;Cimanggis;7;5;700;980;5500000000;Mewah
+799;Cimanggis;3;2;80;37;600000000;Sederhana
+800;Bojongsari;2;1;36;70;390000000;Sederhana
+801;Cipayung;2;1;30;60;290000000;Sederhana
+802;Pancoran Mas;3;3;120;84;980000000;Menengah
+803;Bojongsari;2;1;38;90;457000000;Menengah
+804;Cimanggis;3;3;105;98;1500000000;Menengah
+805;Cimanggis;3;2;136;167;2100000000;Menengah
+806;Cilodong;2;1;40;85;580000000;Menengah
+807;Cimanggis;2;2;42;78;835000000;Sederhana
+808;Pancoran Mas;4;3;96;93;1400000000;Menengah
+809;Pancoran Mas;3;2;90;98;864000000;Menengah
+810;Cimanggis;2;1;42;63;665696000;Sederhana
+811;Cimanggis;3;2;65;94;900000000;Menengah
+812;Cinere;4;4;500;300;6500000000;Mewah
+813;Sawangan;4;3;125;165;1100000000;Menengah
+814;Pancoran Mas;3;3;120;84;980000000;Menengah
+815;Sawangan;3;2;80;90;900000000;Menengah
+816;Sawangan;3;1;50;65;525000000;Sederhana
+817;Cilodong;2;1;50;84;655000000;Menengah
+818;Cinere;5;4;260;600;8000000000;Mewah
+819;Cinere;2;2;58;60;1077000000;Sederhana
+820;Sukmajaya;2;2;70;175;1600000000;Menengah
+821;Cimanggis;2;1;42;85;827000000;Menengah
+822;Cimanggis;1;2;50;100;895000000;Menengah
+823;Cipayung;3;2;50;60;500000000;Sederhana
+824;Cinere;3;2;50;60;500000000;Sederhana
+825;Bojongsari;3;2;50;60;500000000;Sederhana
+826;Sawangan;3;2;60;78;751000000;Sederhana
+827;Cimanggis;2;1;36;66;599000000;Sederhana
+828;Tapos;3;2;70;67;698000000;Sederhana
+829;Cimanggis;2;1;30;72;450000000;Sederhana
+830;Sukmajaya;2;1;40;53;395000000;Sederhana
+831;Cimanggis;6;5;636;348;6900000000;Mewah
+832;Bojongsari;4;3;120;90;879000000;Menengah
+833;Bojongsari;2;1;38;85;440000000;Menengah
+834;Cipayung;2;1;45;72;500000000;Sederhana
+835;Sukmajaya;3;2;65;95;799380000;Menengah
+836;Cinere;4;3;79;90;1300000000;Menengah
+837;Sukmajaya;2;1;50;65;385000000;Sederhana
+838;Sawangan;2;1;42;77;420000000;Sederhana
+839;Cinere;6;5;638;304;3000000000;Mewah
+840;Pancoran Mas;4;2;140;161;1350000000;Menengah
+841;Pancoran Mas;3;2;90;90;1400000000;Menengah
+842;Cimanggis;4;3;268;158;2500000000;Menengah
+843;Cipayung;4;2;50;60;465000000;Sederhana
+844;Cinere;6;5;750;1100;11000000000;Mewah
+845;Beji;4;3;95;82;1050000000;Menengah
+846;Sawangan;2;1;36;99;577500000;Menengah
+847;Sawangan;3;2;69;84;400000000;Menengah
+848;Cimanggis;2;1;35;35;150000000;Sederhana
+849;Cipayung;2;1;36;50;251000000;Sederhana
+850;Cipayung;2;1;45;60;260000000;Sederhana
+851;Sawangan;2;1;54;66;295000000;Sederhana
+852;Cimanggis;2;1;36;50;240000000;Sederhana
+853;Cipayung;2;1;36;50;240000000;Sederhana
+854;Beji;3;3;127;112;2200000000;Menengah
+855;Sawangan;2;1;42;77;420000000;Sederhana
+856;Pancoran Mas;4;6;238;185;2500000000;Menengah
+857;Cipayung;2;1;40;40;165000000;Sederhana
+858;Cimanggis;2;1;27;34;477800000;Sederhana
+859;Bojongsari;3;2;70;72;480000000;Sederhana
+860;Cipayung;2;1;35;35;150000000;Sederhana
+861;Cinere;3;1;88;72;810000000;Sederhana
+862;Cipayung;2;1;36;50;255000000;Sederhana
+863;Cilodong;3;2;75;69;750000000;Sederhana
+864;Beji;4;3;375;575;4500000000;Mewah
+865;Pancoran Mas;2;1;45;60;265000000;Sederhana
+866;Beji;2;1;50;77;790000000;Sederhana
+867;Cilodong;4;4;247;240;1980000000;Mewah
+868;Pancoran Mas;4;2;140;161;1350000000;Menengah
+869;Cipayung;2;1;45;60;330000000;Sederhana
+870;Cipayung;2;1;48;75;250000000;Sederhana
+871;Sawangan;2;1;40;66;295000000;Sederhana
+872;Cipayung;2;1;36;50;255000000;Sederhana
+873;Sawangan;2;1;36;60;285000000;Sederhana
+874;Cimanggis;4;3;268;158;2500000000;Menengah
+875;Cimanggis;2;1;56;136;550000000;Menengah
+876;Cilodong;2;1;36;85;540500000;Menengah
+877;Cimanggis;2;1;36;55;245000000;Sederhana
+878;Sawangan;3;1;50;70;285000000;Sederhana
+879;Cimanggis;2;1;36;36;140000000;Sederhana
+880;Cimanggis;2;1;45;45;172000000;Sederhana
+881;Cimanggis;2;1;36;36;140000000;Sederhana
+882;Cimanggis;2;1;40;40;145000000;Sederhana
+883;Cinere;6;5;750;1100;11000000000;Mewah
+884;Cimanggis;2;1;36;84;419200000;Menengah
+885;Cipayung;2;1;40;40;165000000;Sederhana
+886;Cimanggis;2;1;36;66;374480000;Sederhana
+887;Cimanggis;2;1;36;50;252000000;Sederhana
+888;Cimanggis;2;1;36;50;255000000;Sederhana
+889;Cimanggis;2;1;36;50;292000000;Sederhana
+890;Cipayung;2;1;45;60;280000000;Sederhana
+891;Cilodong;3;2;80;96;1200000000;Menengah
+892;Beji;2;1;36;78;699000000;Sederhana
+893;Cilodong;3;2;90;125;675000000;Menengah
+894;Cinere;4;4;240;350;2000000000;Mewah
+895;Cinere;6;5;320;460;4500000000;Mewah
+896;Sawangan;2;1;36;60;497000000;Sederhana
+897;Bojongsari;3;2;70;72;480000000;Sederhana
+898;Cimanggis;2;1;35;35;150000000;Sederhana
+899;Cinere;3;1;88;72;810000000;Sederhana
+900;Cimanggis;2;1;36;50;255000000;Sederhana
+901;Beji;2;1;50;77;790000000;Sederhana
+902;Cilodong;3;2;75;69;750000000;Sederhana
+903;Cipayung;2;1;40;40;165000000;Sederhana
+904;Beji;4;3;375;575;4500000000;Mewah
+905;Cipayung;2;1;36;50;251000000;Sederhana
+906;Cipayung;2;1;45;60;260000000;Sederhana
+907;Sawangan;2;1;54;66;295000000;Sederhana
+908;Beji;3;3;127;112;2200000000;Menengah
+909;Cinere;4;3;145;91;3300000000;Menengah
+910;Cipayung;2;1;36;60;270000000;Sederhana
+911;Sawangan;2;1;40;65;590000000;Sederhana
+912;Cipayung;2;1;48;72;450000000;Sederhana
+913;Cipayung;2;1;30;35;150000000;Sederhana
+914;Cilodong;4;4;247;240;1980000000;Mewah
+915;Sawangan;3;2;60;66;677000000;Sederhana
+916;Cilodong;3;2;58;54;503000000;Sederhana
+917;Sawangan;2;1;36;99;577500000;Menengah
+918;Sawangan;3;2;69;84;400000000;Menengah
+919;Cimanggis;2;1;36;50;240000000;Sederhana
+920;Cimanggis;2;1;27;34;477800000;Sederhana
+921;Cimanggis;2;1;35;35;150000000;Sederhana
+922;Pancoran Mas;4;6;238;185;2500000000;Menengah
+923;Cipayung;2;1;45;60;265000000;Sederhana
+924;Cipayung;2;1;36;50;240000000;Sederhana
+925;Pancoran Mas;3;2;65;100;700000000;Menengah
+926;Cimanggis;3;2;70;99;1258550000;Menengah
+927;Pancoran Mas;2;1;42;75;529000000;Sederhana
+928;Pancoran Mas;2;1;50;67;600000000;Sederhana
+929;Cilodong;2;1;28;61;358900000;Sederhana
+930;Tapos;3;3;170;155;2250000000;Menengah
+931;Bojongsari;2;1;50;70;480000000;Sederhana
+932;Bojongsari;2;1;45;105;510000200;Menengah
+933;Sawangan;5;4;400;300;1000000000;Mewah
+934;Sawangan;4;3;200;241;2100000000;Mewah
+935;Cimanggis;5;2;200;136;1300000000;Menengah
+936;Beji;3;3;90;95;1390000000;Menengah
+937;Cilodong;5;4;600;548;6000000000;Mewah
+938;Cipayung;2;1;45;70;385000000;Sederhana
+939;Pancoran Mas;3;4;160;446;3000000000;Mewah
+940;Cimanggis;3;2;66;89;899000000;Menengah
+941;Cimanggis;3;2;66;104;959000000;Menengah
+942;Cimanggis;3;2;66;96;911000000;Menengah
+943;Cimanggis;3;2;66;92;917000000;Menengah
+944;Pancoran Mas;3;2;117;120;1550000000;Menengah
+945;Cimanggis;3;2;110;81;790000000;Menengah
+946;Bojongsari;2;1;40;84;626000000;Menengah
+947;Bojongsari;3;2;60;72;1060000000;Sederhana
+948;Cilodong;3;2;90;125;675000000;Menengah
+949;Cimanggis;3;2;136;167;2100000000;Menengah
+950;Cimanggis;3;3;120;100;1800000000;Menengah
+951;Cimanggis;3;3;250;135;2795000000;Menengah
+952;Cimanggis;4;3;120;150;1275000000;Menengah
+953;Cimanggis;2;2;55;40;585000000;Sederhana
+954;Cimanggis;4;2;160;165;1700000000;Menengah
+955;Cimanggis;2;1;36;80;582000000;Menengah
+956;Cilodong;2;1;36;65;325000000;Sederhana
+957;Cimanggis;2;1;42;0;697980000;Sederhana
+958;Cimanggis;3;2;69;78;888000000;Sederhana
+959;Cimanggis;2;1;45;102;613500000;Menengah
+960;Beji;2;1;45;70;660000000;Sederhana
+961;Cilodong;2;1;36;65;325000000;Sederhana
+962;Cimanggis;2;1;42;0;697980000;Sederhana
+963;Cimanggis;3;2;69;78;888000000;Sederhana
+964;Cinere;3;2;150;120;1837000000;Menengah
+965;Cipayung;2;1;30;42;273000000;Sederhana
+966;Cilodong;2;1;36;61;358080000;Sederhana
+967;Cilodong;3;2;81;81;785750000;Menengah
+968;Cipayung;2;1;36;60;435000000;Sederhana
+969;Cilodong;2;1;45;78;615000000;Sederhana
+970;Cimanggis;3;2;61;68;816000000;Sederhana
+971;Pancoran Mas;3;2;70;88;868200000;Menengah
+972;Cimanggis;2;1;38;78;925000000;Sederhana
+973;Beji;2;2;70;60;895000000;Sederhana
+974;Cinere;5;4;260;600;8000000000;Mewah
+975;Pancoran Mas;2;2;50;76;735000000;Sederhana
+976;Pancoran Mas;3;2;63;90;998000000;Menengah
+977;Cimanggis;2;1;36;12;254000000;Sederhana
+978;Tapos;3;2;90;102;1050000000;Menengah
+979;Cilodong;2;1;36;61;501800000;Sederhana
+980;Cilodong;2;1;55;64;620400000;Sederhana
+981;Cilodong;2;1;50;82;620000000;Menengah
+982;Cilodong;2;1;25;53;228000000;Sederhana
+983;Pancoran Mas;2;1;40;40;180000000;Sederhana
+984;Cipayung;2;1;36;54;285000000;Sederhana
+985;Cilodong;2;2;70;90;655000000;Menengah
+986;Bojongsari;2;1;33;50;295000000;Sederhana
+987;Cilodong;3;2;75;69;750000000;Sederhana
+988;Cipayung;2;1;40;40;165000000;Sederhana
+989;Cilodong;2;1;50;79;550000000;Sederhana
+990;Cilodong;3;3;220;135;2900000000;Menengah
+991;Cilodong;2;1;36;61;501800000;Sederhana
+992;Cipayung;2;1;25;53;228000000;Sederhana
+993;Cipayung;2;1;36;50;265000000;Sederhana
+994;Pancoran Mas;2;1;45;72;570000000;Sederhana
+995;Cipayung;2;1;40;40;150000000;Sederhana
+996;Cipayung;2;1;40;65;286000000;Sederhana
+997;Beji;3;2;450;3500;13000000000;Mewah
+998;Cilodong;2;1;30;41;399000000;Sederhana
+999;Cimanggis;2;1;50;94;379000000;Menengah
+1000;Cilodong;2;1;36;66;435000000;Sederhana
+1001;Cilodong;2;1;36;61;501800000;Sederhana
+1002;Cimanggis;2;1;40;40;145000000;Sederhana
+1003;Pancoran Mas;2;4;65;23;555000000;Sederhana
+1004;Bojongsari;2;1;33;50;295000000;Sederhana
+1005;Cimanggis;2;1;36;84;419200000;Menengah
+1006;Cilodong;2;1;36;66;435000000;Sederhana
+1007;Beji;4;2;150;150;2250000000;Menengah
+1008;Cilodong;3;2;75;69;750000000;Sederhana
+1009;Cipayung;2;1;40;40;165000000;Sederhana
+1010;Sawangan;3;3;60;48;800000000;Sederhana
+1011;Cimanggis;2;2;50;56;608000000;Sederhana
+1012;Cinere;3;2;250;344;2500000000;Mewah
+1013;Cimanggis;4;3;250;250;1600000000;Mewah
+1014;Cipayung;2;1;36;66;375000000;Sederhana
+1015;Pancoran Mas;3;3;90;115;1594000000;Menengah
+1016;Cimanggis;2;1;36;12;254000000;Sederhana
+1017;Pancoran Mas;2;2;50;76;735000000;Sederhana
+1018;Pancoran Mas;3;2;63;90;998000000;Menengah
+1019;Tapos;3;2;90;102;1050000000;Menengah
+1020;Cilodong;3;3;220;135;2900000000;Menengah
+1021;Cipayung;2;1;45;61;295000000;Sederhana
+1022;Cimanggis;2;1;36;50;254000000;Sederhana
+1023;Cimanggis;2;1;36;50;200000000;Sederhana
+1024;Sawangan;2;1;36;50;215000000;Sederhana
+1025;Cimanggis;2;1;36;143;506090000;Menengah
+1026;Cipayung;2;1;36;36;135000000;Sederhana
+1027;Cipayung;2;1;36;54;280000000;Sederhana
+1028;Cimanggis;2;1;36;50;245000000;Sederhana
+1029;Pancoran Mas;3;2;64;100;450000000;Menengah
+1030;Cimanggis;2;1;35;40;149000000;Sederhana
+1031;Beji;2;1;35;35;150000000;Sederhana
+1032;Cipayung;2;1;36;50;250000000;Sederhana
+1033;Cipayung;2;1;33;33;125000000;Sederhana
+1034;Sukmajaya;5;4;400;324;4750000000;Mewah
+1035;Sawangan;2;1;30;63;298000000;Sederhana
+1036;Cimanggis;2;2;50;56;608000000;Sederhana
+1037;Cilodong;2;1;30;41;399000000;Sederhana
+1038;Beji;3;2;450;3500;13000000000;Mewah
+1039;Cilodong;2;1;36;66;435000000;Sederhana
+1040;Cilodong;2;1;36;61;501800000;Sederhana
+1041;Pancoran Mas;2;4;65;23;555000000;Sederhana
+1042;Cimanggis;2;1;40;40;145000000;Sederhana
+1043;Cinere;3;2;250;344;2500000000;Mewah
+1044;Sawangan;3;3;60;48;800000000;Sederhana
+1045;Cinere;3;3;190;244;4800000000;Mewah
+1046;Pancoran Mas;6;6;350;250;2900000000;Mewah
+1047;Cinere;4;3;80;90;1350000000;Menengah
+1048;Cipayung;2;1;30;42;273000000;Sederhana
+1049;Cilodong;2;1;45;78;615000000;Sederhana
+1050;Pancoran Mas;4;2;150;150;595000000;Menengah
+1051;Cilodong;2;1;45;72;425000000;Sederhana
+1052;Pancoran Mas;5;3;200;126;2500000000;Menengah
+1053;Pancoran Mas;3;2;135;225;1800000000;Mewah
+1054;Cimanggis;3;2;110;72;800000000;Sederhana
+1055;Cimanggis;4;3;117;120;1550000000;Menengah
+1056;Pancoran Mas;6;4;180;180;2400000000;Menengah
+1057;Cimanggis;3;2;160;215;2750000000;Mewah
+1058;Cimanggis;3;2;105;98;1080000000;Menengah
+1059;Cimanggis;5;2;200;134;1300000000;Menengah
+1060;Cimanggis;5;2;200;127;1300000000;Menengah
+1061;Beji;4;4;110;89;1300000000;Menengah
+1062;Cipayung;2;2;46;37;484000000;Sederhana
+1063;Pancoran Mas;3;2;85;83;980000000;Menengah
+1064;Pancoran Mas;3;3;87;144;1350000000;Menengah
+1065;Cimanggis;6;4;180;180;2400000000;Menengah
+1066;Bojongsari;2;1;42;77;475000000;Sederhana
+1067;Cimanggis;3;2;66;86;881000000;Menengah
+1068;Pancoran Mas;3;2;200;115;1800000000;Menengah
+1069;Cimanggis;3;3;250;135;2795000000;Menengah
+1070;Cimanggis;3;3;120;100;1800000000;Menengah
+1071;Cimanggis;3;2;69;81;976000000;Menengah
+1072;Bojongsari;2;1;36;50;345000000;Sederhana
+1073;Cimanggis;3;2;135;104;1600000000;Menengah
+1074;Cimanggis;3;3;160;204;3400000000;Mewah
+1075;Cimanggis;2;2;42;72;835000000;Sederhana
+1076;Pancoran Mas;3;2;125;95;1600000000;Menengah
+1077;Cimanggis;3;4;180;119;2100000000;Menengah
+1078;Sawangan;0;0;36;81;510000000;Menengah
+1079;Cilodong;3;2;68;85;800000000;Menengah
+1080;Cibubur;3;2;115;96;1400000000;Menengah
+1081;Cimanggis;3;2;200;165;1900000000;Menengah
+1082;Pancoran Mas;4;4;125;128;1600000000;Menengah
+1083;Cimanggis;3;1;69;82;832150000;Menengah
+1084;Cilodong;2;1;33;67;498000000;Sederhana
+1085;Sawangan;2;1;36;61;430000000;Sederhana
+1086;Cimanggis;2;1;42;72;676752000;Sederhana
+1087;Cimanggis;3;2;90;90;1338000000;Menengah
+1088;Cilodong;3;2;81;81;785750000;Menengah
+1089;Cilodong;2;1;36;60;385000000;Sederhana
+1090;Pancoran Mas;3;2;85;83;980000000;Menengah
+1091;Cilodong;2;1;45;62;430000000;Sederhana
+1092;Cimanggis;2;2;65;78;985000000;Sederhana
+1093;Cimanggis;3;2;66;84;839000000;Menengah
+1094;Cimanggis;3;3;122;105;1750000000;Menengah
+1095;Sawangan;2;1;36;92;478000000;Menengah
+1096;Cimanggis;3;2;69;165;1250000000;Menengah
+1097;Pancoran Mas;2;4;65;23;555000000;Sederhana
+1098;Sawangan;2;1;36;81;395000000;Menengah
+1099;Beji;2;1;45;72;750000000;Sederhana
+1100;Cilodong;2;1;45;78;615000000;Sederhana
+1101;Pancoran Mas;2;1;40;63;495000000;Sederhana
+1102;Cipayung;2;1;50;72;410000000;Sederhana
+1103;Bojongsari;2;1;54;160;1132212000;Menengah
+1104;Cimanggis;4;4;410;400;6500000000;Mewah
+1105;Cimanggis;4;4;222;160;2800000000;Menengah
+1106;Beji;3;3;110;75;1040000000;Sederhana
+1107;Cinere;2;3;71;76;1200000000;Sederhana
+1108;Cinere;3;2;120;104;1800000000;Menengah
+1109;Bojongsari;2;2;85;112;600000000;Menengah
+1110;Tapos;2;1;42;70;675000000;Sederhana
+1111;Tapos;2;1;42;70;675000000;Sederhana
+1112;Pancoran Mas;6;6;350;250;2900000000;Mewah
+1113;Pancoran Mas;6;3;120;169;1200000000;Menengah
+1114;Pancoran Mas;2;2;50;76;735000000;Sederhana
+1115;Cimanggis;5;1;224;245;2200000000;Mewah
+1116;Cimanggis;3;4;185;300;2000000000;Mewah
+1117;Limo;3;2;50;60;500000000;Sederhana
+1118;Sawangan;2;1;40;65;595000000;Sederhana
+1119;Beji;2;1;55;132;879000000;Menengah
+1120;Sawangan;3;3;115;70;955000000;Sederhana
+1121;Sawangan;2;1;36;74;400000000;Sederhana
+1122;Sawangan;2;1;36;81;430200000;Menengah
+1123;Cinere;3;3;140;250;1800000000;Mewah
+1124;Cipayung;2;0;110;64;375000000;Sederhana
+1125;Cipayung;3;3;250;1330;1800000000;Mewah
+1126;Pancoran Mas;2;1;36;61;375000000;Sederhana
+1127;Sawangan;53;2;72;53;530000000;Sederhana
+1128;Cimanggis;3;2;85;49;632000000;Sederhana
+1129;Cimanggis;2;1;36;60;550000000;Sederhana
+1130;Sawangan;2;1;40;72;400000000;Sederhana
+1131;Cinere;2;2;58;60;1077000000;Sederhana
+1132;Sawangan;2;1;36;60;250000000;Sederhana
+1133;Sawangan;3;2;160;218;700000000;Mewah
+1134;Sawangan;2;1;45;65;250000000;Sederhana
+1135;Cimanggis;3;3;180;200;3100000000;Menengah
+1136;Pancoran Mas;3;3;116;228;1500000000;Mewah
+1137;Cilodong;4;6;350;257;1400000000;Mewah
+1138;Sukmajaya;2;2;50;86;710000000;Menengah
+1139;Cipayung;3;2;73;60;1350000000;Sederhana
+1140;Cipayung;2;1;54;75;485000000;Sederhana
+1141;Cipayung;2;1;38;40;135000000;Sederhana
+1142;Cipayung;2;1;54;75;485000000;Sederhana
+1143;Beji;2;1;55;132;879000000;Menengah
+1144;Sawangan;3;3;115;70;955000000;Sederhana
+1145;Sawangan;53;2;72;53;530000000;Sederhana
+1146;Pancoran Mas;4;2;120;160;1300000000;Menengah
+1147;Sukmajaya;3;3;168;225;2500000000;Mewah
+1148;Sawangan;2;1;72;72;745000000;Sederhana
+1149;Pancoran Mas;5;4;200;509;2900000000;Mewah
+1150;Cilodong;3;2;75;69;750000000;Sederhana
+1151;Cipayung;2;1;40;40;165000000;Sederhana
+1152;Cimanggis;4;6;238;185;2500000000;Menengah
+1153;Cipayung;2;1;40;60;295000000;Sederhana
+1154;Cinere;4;3;80;90;1350000000;Menengah
+1155;Cilodong;3;2;75;69;750000000;Sederhana
+1156;Sukmajaya;5;4;336;168;2000000000;Menengah
+1157;Cipayung;2;1;40;45;175000000;Sederhana
+1158;Cipayung;2;1;36;50;253000000;Sederhana
+1159;Cipayung;2;1;40;40;155000000;Sederhana
+1160;Cimanggis;2;1;36;66;550000000;Sederhana
+1161;Cipayung;2;1;36;50;251000000;Sederhana
+1162;Cilodong;3;2;81;81;785750000;Menengah
+1163;Pancoran Mas;2;1;40;50;195000000;Sederhana
+1164;Cilodong;2;1;55;83;650000000;Menengah
+1165;Sawangan;2;1;40;60;295000000;Sederhana
+1166;Cipayung;2;1;54;75;485000000;Sederhana
+1167;Cipayung;2;1;45;45;170000000;Sederhana
+1168;Cipayung;2;1;36;50;261000000;Sederhana
+1169;Cipayung;2;1;36;54;275000000;Sederhana
+1170;Pancoran Mas;4;2;140;102;1250000000;Menengah
+1171;Pancoran Mas;5;4;200;509;2900000000;Mewah
+1172;Cimanggis;2;1;36;66;550000000;Sederhana
+1173;Pancoran Mas;2;1;65;228;1350000000;Mewah
+1174;Cipayung;2;1;36;50;251000000;Sederhana
+1175;Cipayung;2;1;40;45;175000000;Sederhana
+1176;Pancoran Mas;2;1;40;50;195000000;Sederhana
+1177;Cinere;4;3;80;90;1350000000;Menengah
+1178;Cilodong;3;2;75;69;750000000;Sederhana
+1179;Cipayung;2;1;40;40;155000000;Sederhana
+1180;Cipayung;2;1;54;75;485000000;Sederhana
+1181;Cipayung;2;1;45;45;170000000;Sederhana
+1182;Cipayung;2;1;45;75;560000000;Sederhana
+1183;Cinere;4;3;210;210;3400000000;Mewah
+1184;Cimanggis;5;5;275;379;5800000000;Mewah
+1185;Sawangan;2;2;65;80;736000000;Menengah
+1186;Bojongsari;2;1;54;85;571200000;Menengah
+1187;Cilodong;2;1;40;77;570000000;Sederhana
+1188;Cipayung;2;1;38;40;135000000;Sederhana
+1189;Cipayung;2;1;40;40;135000000;Sederhana
+1190;Cipayung;2;1;36;40;175000000;Sederhana
+1191;Cipayung;2;1;36;55;250000000;Sederhana
+1192;Cipayung;2;1;36;60;270000000;Sederhana
+1193;Cimanggis;3;2;117;144;700000000;Menengah
+1194;Cinere;4;3;225;272;2500000000;Mewah
+1195;Bojongsari;5;2;200;230;1500000000;Mewah
+1196;Cinere;8;4;388;705;7750000000;Mewah
+1197;Pancoran Mas;3;4;212;160;2350000000;Menengah
+1198;Cimanggis;2;1;36;90;700000000;Menengah
+1199;Cimanggis;5;2;200;134;1330000000;Menengah
+1200;Cimanggis;3;2;110;74;790000000;Sederhana
+1201;Cimanggis;3;2;100;62;699999999;Sederhana
+1202;Cimanggis;5;3;200;136;1300000000;Menengah
+1203;Cimanggis;2;1;45;73;600000000;Sederhana
+1204;Cimanggis;3;2;110;74;770000022;Sederhana
+1205;Pancoran Mas;3;2;105;98;1080000000;Menengah
+1206;Cimanggis;3;3;200;135;1900000000;Menengah
+1207;Cimanggis;2;2;60;60;735000000;Sederhana
+1208;Cimanggis;5;4;180;119;2100000000;Menengah
+1209;Cimanggis;4;2;135;175;1750000000;Menengah
+1210;Bojongsari;2;2;54;160;1132212000;Menengah
+1211;Cimanggis;2;2;105;98;1500000000;Menengah
+1212;Cimanggis;3;2;60;60;735000000;Sederhana
+1213;Pancoran Mas;3;2;70;63;910000000;Sederhana
+1214;Cimanggis;3;2;69;78;948000000;Sederhana
+1215;Sukmajaya;2;1;50;72;400000000;Sederhana
+1216;Sukmajaya;2;1;50;75;410000000;Sederhana
+1217;Cimanggis;3;2;66;84;869000000;Menengah
+1218;Cimanggis;3;2;66;84;839000000;Menengah
+1219;Pancoran Mas;3;3;97;70;650000000;Sederhana
+1220;Sawangan;2;1;36;60;461000000;Sederhana
+1221;Cilodong;3;2;69;84;692550000;Menengah
+1222;Cimanggis;2;1;36;63;475000000;Sederhana
+1223;Cilodong;2;1;40;67;464550000;Sederhana
+1224;Cilodong;3;2;50;70;563000000;Sederhana
+1225;Cilodong;2;1;45;62;530000000;Sederhana
+1226;Cilodong;2;3;55;100;1100000000;Menengah
+1227;Cilodong;3;2;55;100;1100000000;Menengah
+1228;Sukmajaya;2;1;45;70;648000000;Sederhana
+1229;Bojongsari;2;1;40;84;628000000;Menengah
+1230;Pancoran Mas;2;1;45;60;275000000;Sederhana
+1231;Cilodong;2;1;50;84;565000000;Menengah
+1232;Cilodong;2;2;50;90;580000000;Menengah
+1233;Cimanggis;3;2;61;70;800000000;Sederhana
+1234;Pancoran Mas;3;2;105;98;1080000000;Menengah
+1235;Cimanggis;3;3;200;135;1900000000;Menengah
+1236;Pancoran Mas;3;4;212;160;2350000000;Menengah
+1237;Cinere;8;4;388;705;7750000000;Mewah
+1238;Cimanggis;5;2;200;134;1330000000;Menengah
+1239;Cimanggis;3;2;66;84;869000000;Menengah
+1240;Cimanggis;3;2;66;84;839000000;Menengah
+1241;Cimanggis;5;4;180;119;2100000000;Menengah
+1242;Cimanggis;2;1;36;90;700000000;Menengah
+1243;Cimanggis;2;1;45;73;600000000;Sederhana
+1244;Cimanggis;5;3;200;136;1300000000;Menengah
+1245;Cimanggis;3;2;100;62;699999999;Sederhana
+1246;Cimanggis;3;2;110;74;790000000;Sederhana
+1247;Pancoran Mas;2;2;45;138;670000000;Menengah
+1248;Cinere;4;3;115;105;1637418500;Menengah
+1249;Pancoran Mas;4;4;410;400;6500000000;Mewah
+1250;Cibubur;4;4;222;160;2800000000;Menengah
+1251;Cibubur;4;4;410;400;6500000000;Mewah
+1252;Pancoran Mas;2;1;48;48;380000000;Sederhana
+1253;Cimanggis;4;2;200;380;2900000000;Mewah
+1254;Pancoran Mas;2;1;50;73;645000000;Sederhana
+1255;Cipayung;2;1;36;60;300000000;Sederhana
+1256;Cinere;4;4;115;105;1400000000;Menengah
+1257;Cimanggis;4;2;140;161;1350000000;Menengah
+1258;Pancoran Mas;6;6;750;1040;11500000000;Mewah
+1259;Cinere;4;3;180;150;2750000000;Menengah
+1260;Cimanggis;4;3;350;285;3200000000;Mewah
+1261;Sawangan;2;1;40;60;299000000;Sederhana
+1262;Sawangan;2;1;45;55;250000000;Sederhana
+1263;Sawangan;2;1;40;60;320000000;Sederhana
+1264;Cinere;4;3;79;90;1350000000;Menengah
+1265;Cipayung;2;1;36;50;252000000;Sederhana
+1266;Cilodong;2;2;80;105;780000000;Menengah
+1267;Beji;5;4;323;412;5500000000;Mewah
+1268;Cipayung;2;1;36;50;265000000;Sederhana
+1269;Cipayung;2;1;40;40;150000000;Sederhana
+1270;Cimanggis;6;4;220;120;1850000000;Menengah
+1271;Beji;2;1;50;70;750000000;Sederhana
+1272;Pancoran Mas;5;4;368;237;3900000000;Mewah
+1273;Cipayung;2;1;36;52;235000000;Sederhana
+1274;Sawangan;3;2;70;72;497000000;Sederhana
+1275;Beji;3;1;60;90;750000000;Menengah
+1276;Cipayung;2;1;45;45;170000000;Sederhana
+1277;Pancoran Mas;3;3;275;240;3500000000;Mewah
+1278;Cipayung;2;1;45;60;300000000;Sederhana
+1279;Beji;2;2;100;177;680000000;Menengah
+1280;Tapos;2;1;36;50;225000000;Sederhana
+1281;Pancoran Mas;2;4;65;23;555000000;Sederhana
+1282;Pancoran Mas;2;2;90;218;1000000000;Mewah
+1283;Cipayung;2;1;30;50;245000000;Sederhana
+1284;Cipayung;2;1;36;60;340000000;Sederhana
+1285;Sukmajaya;2;1;36;120;950000000;Menengah
+1286;Cipayung;2;1;36;50;255000000;Sederhana
+1287;Limo;6;3;1000;500;8000000000;Mewah
+1288;Cilodong;2;1;36;50;235000000;Sederhana
+1289;Sawangan;3;2;69;73;966454000;Sederhana
+1290;Cipayung;2;1;36;36;131000000;Sederhana
+1291;Cipayung;2;1;36;50;256000000;Sederhana
+1292;Pancoran Mas;7;4;229;801;3700000000;Mewah
+1293;Beji;3;1;80;60;760000000;Sederhana
+1294;Cilodong;3;2;75;69;750000000;Sederhana
+1295;Cinere;3;2;135;128;1400000000;Menengah
+1296;Sawangan;2;1;36;50;235000000;Sederhana
+1297;Pancoran Mas;3;2;90;72;685700000;Sederhana
+1298;Sawangan;2;1;36;60;465000000;Sederhana
+1299;Pancoran Mas;2;1;36;55;245000000;Sederhana
+1300;Cinere;3;2;67;70;998500000;Sederhana
+1301;Pancoran Mas;6;2;200;240;2800000000;Mewah
+1302;Pancoran Mas;4;3;198;263;3800000000;Mewah
+1303;Pancoran Mas;5;3;500;420;3600000000;Mewah
+1304;Cilodong;2;1;45;72;450000000;Sederhana
+1305;Cipayung;2;1;40;40;143000000;Sederhana
+1306;Sawangan;2;1;40;72;450000000;Sederhana
+1307;Cipayung;2;1;25;50;215000000;Sederhana
+1308;Beji;2;1;50;77;790000000;Sederhana
+1309;Cipayung;2;1;36;50;256000000;Sederhana
+1310;Cimanggis;3;3;70;44;686000000;Sederhana
+1311;Cilodong;3;2;55;64;620400000;Sederhana
+1312;Cipayung;2;1;36;50;261000000;Sederhana
+1313;Sawangan;2;1;25;52;215000000;Sederhana
+1314;Pancoran Mas;2;1;36;60;265000000;Sederhana
+1315;Cipayung;2;1;36;52;265000000;Sederhana
+1316;Pancoran Mas;2;2;54;87;525000000;Menengah
+1317;Cilodong;3;2;80;120;900000000;Menengah
+1318;Cinere;3;2;150;105;1600000000;Menengah
+1319;Cinere;4;2;90;60;1100000000;Sederhana
+1320;Cimanggis;3;2;61;68;816000000;Sederhana
+1321;Cilodong;3;2;70;83;843000000;Menengah
+1322;Beji;3;2;122;90;1800000000;Menengah
+1323;Tapos;2;1;42;70;650000000;Sederhana
+1324;Cimanggis;2;1;42;73;690000000;Sederhana
+1325;Beji;3;3;158;120;2400000000;Menengah
+1326;Cimanggis;2;1;42;70;675910000;Sederhana
+1327;Pancoran Mas;12;12;250;317;1650000000;Mewah
+1328;Cipayung;2;1;36;66;374480000;Sederhana
+1329;Cilodong;2;1;36;85;435000000;Menengah
+1330;Pancoran Mas;2;4;65;23;555000000;Sederhana
+1331;Pancoran Mas;4;3;105;205;2200000000;Mewah
+1332;Sawangan;2;3;48;40;445000000;Sederhana
+1333;Sawangan;3;2;68;50;705200000;Sederhana
+1334;Sawangan;2;1;36;71;297000000;Sederhana
+1335;Bojongsari;2;1;32;72;425000000;Sederhana
+1336;Sawangan;2;1;36;84;500000000;Menengah
+1337;Cinere;4;3;250;186;2300000000;Menengah
+1338;Cimanggis;2;1;36;60;550000000;Sederhana
+1339;Cilodong;2;1;36;63;259600000;Sederhana
+1340;Cinere;2;1;55;60;400000000;Sederhana
+1341;Pancoran Mas;2;1;36;60;400000000;Sederhana
+1342;Pancoran Mas;2;1;45;72;395000000;Sederhana
+1343;Sukmajaya;4;3;300;700;11000000000;Mewah
+1344;Cilodong;3;2;58;54;502000000;Sederhana
+1345;Bojongsari;2;1;50;70;520000021;Sederhana
+1346;Pancoran Mas;54;55;120;458;9000000000;Mewah
+1347;Sawangan;2;1;90;140;900000000;Menengah
+1348;Cimanggis;5;5;200;136;1300000000;Menengah
+1349;Cimanggis;3;2;80;50;549999990;Sederhana
+1350;Cimanggis;2;2;100;62;700000000;Sederhana
+1351;Cimanggis;2;2;100;62;700000000;Sederhana
+1352;Cimanggis;3;2;110;74;750000000;Sederhana
+1353;Cimanggis;3;2;72;110;750000000;Menengah
+1354;Cimanggis;5;5;200;136;1300000000;Menengah
+1355;Cimanggis;2;2;55;84;750000000;Menengah
+1356;Cimanggis;3;2;80;48;700000000;Sederhana
+1357;Bojongsari;2;1;42;74;420000000;Sederhana
+1358;Cimanggis;3;2;60;69;898000000;Sederhana
+1359;Sawangan;3;2;140;150;1800000000;Menengah
+1360;Sawangan;3;2;100;160;1200000000;Menengah
+1361;Cimanggis;5;2;200;136;1350000000;Menengah
+1362;Cipayung;4;3;79;72;1200000000;Sederhana
+1363;Cimanggis;3;1;91;96;1600000000;Menengah
+1364;Sawangan;2;1;42;76;430000000;Sederhana
+1365;Cimanggis;3;2;100;225;2250000000;Mewah
+1366;Cimanggis;3;2;117;120;1550000000;Menengah
+1367;Pancoran Mas;4;4;130;112;1700000000;Menengah
+1368;Cimanggis;3;2;61;100;700000000;Menengah
+1369;Cimanggis;3;2;50;80;550000000;Menengah
+1370;Cimanggis;3;2;80;51;700000000;Sederhana
+1371;Pancoran Mas;6;4;180;180;2400000000;Menengah
+1372;Pancoran Mas;6;4;180;180;2400000000;Menengah
+1373;Sawangan;2;1;44;77;539750000;Sederhana
+1374;Cimanggis;3;2;102;62;700000000;Sederhana
+1375;Sawangan;2;1;108;75;800000000;Sederhana
+1376;Cipayung;2;1;45;70;385000000;Sederhana
+1377;Pancoran Mas;2;1;42;69;690000000;Sederhana
+1378;Limo;3;1;90;156;2000000000;Menengah
+1379;Bojongsari;3;1;85;131;785000000;Menengah
+1380;Cimanggis;3;2;66;88;863000000;Menengah
+1381;Cimanggis;3;2;66;88;893000000;Menengah
+1382;Cimanggis;3;2;66;97;947000000;Menengah
+1383;Cimanggis;3;2;66;90;875000000;Menengah
+1384;Beji;3;2;225;160;2400000000;Menengah
+1385;Beji;10;4;510;510;3800000000;Mewah
+1386;Cipayung;2;1;40;66;385000000;Sederhana
+1387;Sawangan;2;1;81;36;519000000;Sederhana
+1388;Cimanggis;5;4;180;119;2100000000;Menengah
+1389;Cimanggis;3;3;105;98;1500000000;Menengah
+1390;Cimanggis;5;3;439;468;6500000000;Mewah
+1391;Sawangan;3;3;120;67;985000000;Sederhana
+1392;Cipayung;2;1;36;60;374000000;Sederhana
+1393;Cimanggis;3;2;66;85;800000000;Menengah
+1394;Cilodong;2;1;36;84;440500000;Menengah
+1395;Beji;4;3;200;266;2400000000;Mewah
+1396;Cimanggis;3;2;65;74;955000000;Sederhana
+1397;Cilodong;3;2;59;66;578194000;Sederhana
+1398;Cimanggis;3;2;65;78;1115000000;Sederhana
+1399;Cimanggis;3;2;69;72;839320000;Sederhana
+1400;Bojongsari;2;1;40;84;659000000;Menengah
+1401;Cimanggis;3;2;66;84;732000000;Menengah
+1402;Cimanggis;2;1;36;61;442250000;Sederhana
+1403;Beji;2;1;45;72;685000000;Sederhana
+1404;Cilodong;3;2;93;93;785500000;Menengah
+1405;Sawangan;2;1;36;72;358000000;Sederhana
+1406;Pancoran Mas;3;3;90;162;2000000000;Menengah
+1407;Sukmajaya;2;2;83;83;600000000;Menengah
+1408;Cimanggis;3;3;160;204;3400000000;Mewah
+1409;Bojongsari;2;1;36;92;700000000;Menengah
+1410;Pancoran Mas;3;3;115;67;985000000;Sederhana
+1411;Cilodong;2;2;36;72;444000000;Sederhana
+1412;Cilodong;3;2;60;60;950000000;Sederhana
+1413;Cinere;2;2;90;103;1600000000;Menengah
+1414;Cilodong;2;1;45;72;585000000;Sederhana
+1415;Beji;3;3;110;75;1040000000;Sederhana
+1416;Pancoran Mas;3;3;111;120;1700000000;Menengah
+1417;Beji;3;2;45;72;775000000;Sederhana
+1418;Cipayung;2;1;36;50;235000000;Sederhana
+1419;Cipayung;2;1;36;50;255000000;Sederhana
+1420;Cipayung;2;1;40;40;150000000;Sederhana
+1421;Bojongsari;3;1;70;93;890000000;Menengah
+1422;Cilodong;3;2;75;69;750000000;Sederhana
+1423;Tapos;3;2;140;72;695000000;Sederhana
+1424;Cipayung;2;1;36;50;255000000;Sederhana
+1425;Cipayung;2;1;45;60;295000000;Sederhana
+1426;Cipayung;2;1;36;60;275000000;Sederhana
+1427;Cinere;3;3;180;230;1550000000;Mewah
+1428;Cipayung;2;1;36;50;252000000;Sederhana
+1429;Pancoran Mas;2;1;50;55;222000000;Sederhana
+1430;Pancoran Mas;4;3;200;266;2400000000;Mewah
+1431;Cimanggis;3;2;66;85;800000000;Menengah
+1432;Pancoran Mas;2;1;45;72;685000000;Sederhana
+1433;Cimanggis;3;3;122;105;1750000000;Menengah
+1434;Pancoran Mas;4;2;160;160;1450000000;Menengah
+1435;Cinere;3;2;250;510;3850000000;Mewah
+1436;Cilodong;2;1;36;65;450000000;Sederhana
+1437;Sawangan;2;1;40;60;250000000;Sederhana
+1438;Sawangan;2;1;36;60;250000000;Sederhana
+1439;Pancoran Mas;3;3;115;67;985000000;Sederhana
+1440;Beji;4;3;372;575;5000000000;Mewah
+1441;Sawangan;2;1;54;66;300000000;Sederhana
+1442;Cipayung;2;1;36;50;253000000;Sederhana
+1443;Cimanggis;2;1;36;50;253000000;Sederhana
+1444;Cimanggis;2;1;42;70;468000000;Sederhana
+1445;Sawangan;3;2;100;150;1100000000;Menengah
+1446;Cilodong;3;2;60;60;950000000;Sederhana
+1447;Cinere;2;2;90;103;1600000000;Menengah
+1448;Cilodong;2;1;45;72;585000000;Sederhana
+1449;Beji;4;3;372;575;5000000000;Mewah
+1450;Pancoran Mas;3;3;73;120;1285000000;Menengah
+1451;Cinere;2;1;85;165;850000000;Menengah
+1452;Cimanggis;3;2;65;65;648000000;Sederhana
+1453;Cipayung;2;1;36;50;255000000;Sederhana
+1454;Cipayung;3;1;45;72;570000000;Sederhana
+1455;Cilodong;2;3;60;271;950000000;Mewah
+1456;Cinere;0;0;180;192;3500000000;Menengah
+1457;Cipayung;2;1;36;50;253000000;Sederhana
+1458;Cilodong;2;1;24;42;326000000;Sederhana
+1459;Pancoran Mas;3;2;156;156;2100000000;Menengah
+1460;Cipayung;2;1;45;84;433000000;Menengah
+1461;Pancoran Mas;2;1;30;50;245000000;Sederhana
+1462;Sukmajaya;4;2;86;86;1375000000;Menengah
+1463;Cimanggis;3;3;150;367;1900000000;Mewah
+1464;Bojongsari;2;1;50;85;760000000;Menengah
+1465;Cipayung;1;1;25;50;228000000;Sederhana
+1466;Cipayung;2;1;36;50;256000000;Sederhana
+1467;Pancoran Mas;2;2;100;100;750000000;Menengah
+1468;Cilodong;2;1;50;85;500000000;Menengah
+1469;Cilodong;2;1;55;85;750000000;Menengah
+1470;Sawangan;2;1;40;60;300000000;Sederhana
+1471;Sawangan;2;1;40;60;300000000;Sederhana
+1472;Cipayung;3;1;45;72;570000000;Sederhana
+1473;Cimanggis;3;2;65;65;648000000;Sederhana
+1474;Cimanggis;3;3;101;112;1818770000;Menengah
+1475;Sawangan;2;1;35;50;260000000;Sederhana
+1476;Cinere;2;1;85;84;650000000;Menengah
+1477;Cimanggis;5;4;550;600;7500000000;Mewah
+1478;Beji;2;1;52;63;400000000;Sederhana
+1479;Pancoran Mas;7;5;350;500;2600000000;Mewah
+1480;Cimanggis;5;2;198;128;1300000999;Menengah
+1481;Cimanggis;4;3;200;180;1950000000;Menengah
+1482;Sukmajaya;3;3;130;130;750000000;Menengah
+1483;Cimanggis;2;1;42;70;468000000;Sederhana
+1484;Sawangan;3;2;100;150;1100000000;Menengah
+1485;Cinere;4;2;200;300;3100000000;Mewah
+1486;Cinere;4;3;200;120;1800000000;Menengah
+1487;Sawangan;2;1;40;85;447000000;Menengah
+1488;Beji;1;1;50;50;300000000;Sederhana
+1489;Cipayung;2;1;36;50;255000000;Sederhana
+1490;Bojongsari;3;2;68;84;650000000;Menengah
+1491;Cipayung;2;1;45;60;220000000;Sederhana
+1492;Cilodong;3;2;78;80;975000000;Menengah
+1493;Cilodong;3;2;78;80;975000000;Menengah
+1494;Sawangan;7;6;738;868;5000000000;Mewah
+1495;Pancoran Mas;3;2;120;78;875000000;Sederhana
+1496;Cimanggis;4;3;167;188;2900000000;Menengah
+1497;Beji;2;1;100;100;850000000;Menengah
+1498;Beji;4;3;145;78;975000000;Sederhana
+1499;Cipayung;2;1;40;40;145000000;Sederhana
+1500;Cilodong;2;1;36;66;338200000;Sederhana
+1501;Pancoran Mas;3;2;55;55;499000000;Sederhana
+1502;Cimanggis;2;1;45;102;547000000;Menengah
+1503;Cimanggis;6;5;679;1024;5200000000;Mewah
+1504;Beji;4;4;147;151;1850000000;Menengah
+1505;Pancoran Mas;3;2;60;82;710000000;Menengah
+1506;Cipayung;2;1;36;50;270000000;Sederhana
+1507;Cipayung;5;3;126;240;1200000000;Mewah
+1508;Cimanggis;3;2;80;50;550000000;Sederhana
+1509;Cimanggis;2;1;36;50;150000000;Sederhana
+1510;Cinere;4;4;450;650;6200000000;Mewah
+1511;Pancoran Mas;2;1;36;72;495000000;Sederhana
+1512;Pancoran Mas;3;3;175;118;2125300000;Menengah
+1513;Beji;3;3;127;100;1600000000;Menengah
+1514;Sawangan;3;2;100;250;550000000;Mewah
+1515;Cimanggis;3;2;110;72;700000000;Sederhana
+1516;Sukmajaya;2;2;60;113;600000000;Menengah
+1517;Cipayung;2;1;54;66;385000000;Sederhana
+1518;Sukmajaya;3;1;100;297;1100000000;Mewah
+1519;Pancoran Mas;3;3;150;168;650000000;Menengah
+1520;Cipayung;2;1;48;87;450000000;Menengah
+1521;Sawangan;2;2;130;160;900000000;Menengah
+1522;Beji;3;3;100;61;1100000000;Sederhana
+1523;Bojongsari;4;4;225;415;1800000000;Mewah
+1524;Cimanggis;2;1;60;75;635000000;Sederhana
+1525;Sukmajaya;2;1;90;90;450000000;Menengah
+1526;Cimanggis;3;2;65;72;800000000;Sederhana
+1527;Tapos;2;1;60;100;350000000;Menengah
+1528;Beji;2;1;30;50;180000000;Sederhana
+1529;Cilodong;2;1;44;72;475000000;Sederhana
+1530;Pancoran Mas;3;1;135;135;750000000;Menengah
+1531;Beji;2;1;30;50;180000000;Sederhana
+1532;Beji;4;2;100;250;2000000000;Mewah
+1533;Sawangan;2;1;40;55;230000000;Sederhana
+1534;Pancoran Mas;4;2;190;90;975000000;Menengah
+1535;Cimanggis;3;2;65;72;800000000;Sederhana
+1536;Cimanggis;4;3;200;110;1500000000;Menengah
+1537;Sawangan;0;0;36;74;300000000;Sederhana
+1538;Cimanggis;4;4;160;98;970000000;Menengah
+1539;Cipayung;2;1;50;72;380000000;Sederhana
+1540;Cinere;2;1;36;50;255000000;Sederhana
+1541;Sukmajaya;3;1;48;120;800000000;Menengah
+1542;Beji;3;2;97;84;880000000;Menengah
+1543;Sukmajaya;2;1;40;72;475000000;Sederhana
+1544;Cipayung;3;1;100;50;400000000;Sederhana
+1545;Cinere;7;4;300;450;5300000000;Mewah
+1546;Cilodong;4;2;100;120;800000000;Menengah
+1547;Sukmajaya;2;1;102;102;600000000;Menengah
+1548;Cipayung;2;1;36;50;197000000;Sederhana
+1549;Beji;3;3;115;89;1250000000;Menengah
+1550;Cinere;5;5;1000;1000;20000000000;Mewah
+1551;Cinere;6;4;310;261;3800000000;Mewah
+1552;Pancoran Mas;3;2;80;120;850000000;Menengah
+1553;Pancoran Mas;1;1;56;72;200000000;Sederhana
+1554;Cipayung;1;1;34;0;270000000;Sederhana
+1555;Sawangan;2;1;40;65;260000000;Sederhana
+1556;Cipayung;2;1;36;60;170000000;Sederhana
+1557;Cinere;4;5;174;196;1900000000;Menengah
+1558;Cimanggis;4;4;275;150;1200000000;Menengah
+1559;Sawangan;2;1;46;60;338000000;Sederhana
+1560;Cipayung;2;1;45;70;355000000;Sederhana
+1561;Sukmajaya;3;2;100;150;725000000;Menengah
+1562;Cipayung;2;1;36;50;130000000;Sederhana
+1563;Sawangan;2;1;50;65;660000000;Sederhana
+1564;Sawangan;2;1;36;60;399000000;Sederhana
+1565;Cimanggis;4;3;290;160;3400000000;Menengah
+1566;Bojongsari;2;1;36;83;374000000;Menengah
+1567;Pancoran Mas;3;2;65;64;629200000;Sederhana
+1568;Beji;3;3;90;60;910000000;Sederhana
+1569;Bojongsari;2;0;40;84;555000000;Menengah
+1570;Sawangan;6;3;400;860;2250000000;Mewah
+1571;Beji;2;1;60;65;675000000;Sederhana
+1572;Cilodong;3;2;70;101;650000000;Menengah
+1573;Cimanggis;2;2;100;130;900000000;Menengah
+1574;Cimanggis;3;2;106;224;1000000000;Mewah
+1575;Cimanggis;3;3;70;70;760000000;Sederhana
+1576;Beji;4;4;147;122;1850000000;Menengah
+1577;Beji;3;2;70;98;790000000;Menengah
+1578;Cimanggis;3;2;75;105;799000000;Menengah
+1579;Cilodong;3;1;40;72;460750000;Sederhana
+1580;Cinere;3;2;72;78;1100000000;Sederhana
+1581;Cinere;2;1;90;123;900000000;Menengah
+1582;Cilodong;2;1;40;66;460000000;Sederhana
+1583;Bojongsari;2;1;89;46;350000000;Sederhana
+1584;Pancoran Mas;2;1;45;87;440000000;Menengah
+1585;Sawangan;5;3;150;188;750000000;Menengah
+1586;Cipayung;2;1;36;50;349000000;Sederhana
+1587;Pancoran Mas;3;2;60;96;485000000;Menengah
+1588;Cinere;5;4;124;120;1594081800;Menengah
+1589;Cinere;3;2;100;60;1100000000;Sederhana
+1590;Sawangan;2;1;40;67;300000000;Sederhana
+1591;Beji;3;2;90;91;130000000;Menengah
+1592;Sukmajaya;4;3;180;188;1200000000;Menengah
+1593;Cinere;4;4;124;130;1888637000;Menengah
+1594;Cinere;4;3;121;168;1200000000;Menengah
+1595;Cimanggis;2;1;70;72;350000000;Sederhana
+1596;Pancoran Mas;2;1;40;72;530000000;Sederhana
+1597;Beji;3;3;300;181;2000000000;Menengah
+1598;Beji;2;1;45;87;690000000;Menengah
+1599;Pancoran Mas;4;3;90;180;897000000;Menengah
+1600;Sawangan;4;3;130;110;550000000;Menengah
+1601;Cinere;4;3;160;230;1750000000;Mewah
+1602;Cimanggis;3;2;136;96;650000000;Menengah
+1603;Beji;2;1;45;76;680000000;Sederhana
+1604;Beji;3;2;133;133;864000000;Menengah
+1605;Sawangan;2;1;36;72;350000000;Sederhana
+1606;Cinere;6;6;1364;1280;1500000000;Mewah
+1607;Cimanggis;3;2;72;135;630000000;Menengah
+1608;Pancoran Mas;2;1;36;60;190000000;Sederhana
+1609;Beji;5;2;142;92;1600000000;Menengah
+1610;Cipayung;2;1;45;70;350000000;Sederhana
+1611;Sawangan;2;1;36;60;295000000;Sederhana
+1612;Cinere;3;2;98;75;1092000000;Sederhana
+1613;Cinere;6;5;200;265;3300000000;Mewah
+1614;Cilodong;2;2;90;72;425000000;Sederhana
+1615;Beji;4;4;130;86;1200000000;Menengah
+1616;Cinere;0;0;90;72;950000000;Sederhana
+1617;Pancoran Mas;3;2;105;89;900000000;Menengah
+1618;Cipayung;2;1;30;65;170000000;Sederhana
+1619;Cimanggis;2;1;36;50;185000000;Sederhana
+1620;Cinere;3;2;90;122;850000000;Menengah
+1621;Cinere;4;3;130;115;1125000000;Menengah
+1622;Cilodong;4;3;270;280;2100000000;Mewah
+1623;Cipayung;2;1;30;65;170000000;Sederhana
+1624;Pancoran Mas;3;2;80;72;795000000;Sederhana
+1625;Beji;3;2;90;60;910000000;Sederhana
+1626;Cinere;3;2;90;122;850000000;Menengah
+1627;Bojongsari;2;1;39;72;572000000;Sederhana
+1628;Beji;2;1;38;78;659000000;Sederhana
+1629;Cinere;3;2;78;72;1280000000;Sederhana
+1630;Beji;2;1;40;60;700000000;Sederhana
+1631;Cinere;4;4;676;309;9600000000;Mewah
+1632;Pancoran Mas;3;2;60;92;765000000;Menengah
+1633;Sawangan;4;3;120;135;570000000;Menengah
+1634;Beji;2;1;45;72;775000000;Sederhana
+1635;Sawangan;2;1;30;72;240000000;Sederhana
+1636;Pancoran Mas;2;3;120;155;950000000;Menengah
+1637;Cimanggis;2;1;42;66;450000000;Sederhana
+1638;Sawangan;2;1;50;70;400000000;Sederhana
+1639;Pancoran Mas;2;1;45;72;642700000;Sederhana
+1640;Cimanggis;5;2;110;134;1300000000;Menengah
+1641;Beji;3;3;100;102;1435000000;Menengah
+1642;Pancoran Mas;2;1;45;72;550000000;Sederhana
+1643;Cimanggis;4;2;114;167;1238000000;Menengah
+1644;Bojongsari;3;2;54;90;600000000;Menengah
+1645;Pancoran Mas;2;1;30;32;180000000;Sederhana
+1646;Cimanggis;2;1;45;61;400000000;Sederhana
+1647;Sawangan;2;1;50;120;475000000;Menengah
+1648;Sawangan;2;1;40;60;285000000;Sederhana
+1649;Cinere;3;2;180;240;1850000000;Mewah
+1650;Cipayung;2;1;40;40;145000000;Sederhana
+1651;Sawangan;2;1;40;55;375000000;Sederhana
+1652;Tapos;3;2;75;147;990000000;Menengah
+1653;Sawangan;0;0;36;120;435624774;Menengah
+1654;Beji;2;1;50;110;710000000;Menengah
+1655;Cimanggis;3;2;112;70;695000000;Sederhana
+1656;Cimanggis;3;3;148;84;1075000000;Menengah
+1657;Cinere;2;1;80;90;650000000;Menengah
+1658;Cinere;4;3;150;105;1550000000;Menengah
+1659;Sukmajaya;1;1;30;44;138000000;Sederhana
+1660;Pancoran Mas;2;1;42;75;529000000;Sederhana
+1661;Cipayung;2;1;52;90;450000000;Menengah
+1662;Cinere;5;4;184;114;930000000;Menengah
+1663;Cilodong;2;1;36;64;597100000;Sederhana
+1664;Sawangan;4;3;100;155;900000000;Menengah
+1665;Pancoran Mas;2;1;60;84;760000000;Menengah
+1666;Cimanggis;2;1;70;128;415000000;Menengah
+1667;Pancoran Mas;4;3;104;91;1073700000;Menengah
+1668;Sawangan;2;1;36;60;285000000;Sederhana
+1669;Beji;3;2;110;84;1300000000;Menengah
+1670;Sawangan;3;2;54;108;450000000;Menengah
+1671;Pancoran Mas;4;3;185;416;1800000000;Mewah
+1672;Cipayung;3;4;70;90;750000000;Menengah
+1673;Cipayung;0;0;36;60;295000000;Sederhana
+1674;Sawangan;2;1;24;46;280200000;Sederhana
+1675;Sawangan;5;3;200;147;800000000;Menengah
+1676;Sawangan;5;2;250;249;1765000000;Mewah
+1677;Sawangan;3;2;80;88;699800000;Menengah
+1678;Pancoran Mas;3;3;96;90;825000000;Menengah
+1679;Pancoran Mas;3;2;55;60;599000000;Sederhana
+1680;Cilodong;2;1;36;78;678000000;Sederhana
+1681;Cinere;3;2;120;154;1800000000;Menengah
+1682;Beji;3;2;70;78;899878987;Sederhana
+1683;Cimanggis;6;4;252;658;4500000000;Mewah
+1684;Bojongsari;3;3;450;824;4120000000;Mewah
+1685;Cimanggis;4;2;113;100;980000000;Menengah
+1686;Cimanggis;5;4;160;153;1600000000;Menengah
+1687;Pancoran Mas;5;4;170;120;1600000000;Menengah
+1688;Pancoran Mas;3;2;70;94;650000000;Menengah
+1689;Cilodong;2;1;40;84;457832733;Menengah
+1690;Tapos;2;1;36;64;360000000;Sederhana
+1691;Pancoran Mas;3;2;96;72;880000000;Sederhana
+1692;Sukmajaya;3;1;133;133;850000000;Menengah
+1693;Pancoran Mas;3;2;58;75;845000000;Sederhana
+1694;Pancoran Mas;2;1;80;68;529750000;Sederhana
+1695;Pancoran Mas;2;1;36;61;552000000;Sederhana
+1696;Cinere;3;2;118;120;1400000000;Menengah
+1697;Beji;3;2;92;157;850000000;Menengah
+1698;Cimanggis;2;1;50;120;895000000;Menengah
+1699;Cimanggis;4;3;200;200;1250000000;Menengah
+1700;Pancoran Mas;3;2;70;75;675000000;Sederhana
+1701;Sawangan;2;3;40;48;348000000;Sederhana
+1702;Sawangan;3;2;100;150;1100000000;Menengah
+1703;Cipayung;2;1;45;45;115000000;Sederhana
+1704;Cipayung;2;1;35;50;165000000;Sederhana
+1705;Cipayung;2;1;50;50;190000000;Sederhana
+1706;Cilodong;2;1;40;60;399000000;Sederhana
+1707;Pancoran Mas;0;0;45;70;435000000;Sederhana
+1708;Cimanggis;2;1;36;60;429000000;Sederhana
+1709;Pancoran Mas;3;2;100;125;600000000;Menengah
+1710;Sawangan;2;1;45;91;630000000;Menengah
+1711;Cinere;5;3;400;355;3500000000;Mewah
+1712;Cilodong;2;1;32;60;250000000;Sederhana
+1713;Pancoran Mas;3;2;100;125;600000000;Menengah
+1714;Sawangan;2;1;45;91;630000000;Menengah
+1715;Sukmajaya;3;2;76;120;400000000;Menengah
+1716;Cipayung;4;1;59;78;750000000;Sederhana
+1717;Cimanggis;2;1;45;85;641000000;Menengah
+1718;Sawangan;2;1;45;72;385000000;Sederhana
+1719;Cinere;7;5;600;1400;4800000000;Mewah
+1720;Cilodong;2;1;63;100;675000000;Menengah
+1721;Pancoran Mas;2;1;36;72;495000000;Sederhana
+1722;Bojongsari;3;2;69;72;550000000;Sederhana
+1723;Cilodong;3;3;85;130;875000000;Menengah
+1724;Cinere;3;2;110;120;1500000000;Menengah
+1725;Cilodong;3;2;70;60;650000000;Sederhana
+1726;Pancoran Mas;2;2;63;72;695000000;Sederhana
+1727;Cimanggis;2;1;45;70;535000000;Sederhana
+1728;Sukmajaya;3;2;80;102;850000000;Menengah
+1729;Cimanggis;4;2;153;182;1000000000;Menengah
+1730;Pancoran Mas;2;1;36;66;586000000;Sederhana
+1731;Sawangan;2;2;105;105;550000000;Menengah
+1732;Sawangan;2;1;40;55;260000000;Sederhana
+1733;Beji;5;3;243;208;1600000000;Mewah
+1734;Sawangan;2;1;36;72;307000000;Sederhana
+1735;Cimanggis;4;2;265;265;1400000000;Mewah
+1736;Cinere;3;2;80;95;1087000000;Menengah
+1737;Cimanggis;3;2;60;57;600000000;Sederhana
+1738;Sawangan;2;1;45;60;235000000;Sederhana
+1739;Beji;4;4;147;122;1850000000;Menengah
+1740;Cimanggis;4;2;135;175;1750000000;Menengah
+1741;Cimanggis;4;2;265;265;1400000000;Mewah
+1742;Cinere;3;2;80;95;1087000000;Menengah
+1743;Cinere;2;1;1;1;650000000;Sederhana
+1744;Sawangan;5;3;400;450;4500000000;Mewah
+1745;Pancoran Mas;3;3;160;115;1000000000;Menengah
+1746;Pancoran Mas;2;1;36;66;550000000;Sederhana
+1747;Cimanggis;3;2;48;80;575000000;Menengah
+1748;Cipayung;2;1;30;50;172000000;Sederhana
+1749;Cinere;5;4;180;192;3750000000;Menengah
+1750;Cipayung;3;3;200;300;950000000;Mewah
+1751;Sawangan;2;2;39;60;402500000;Sederhana
+1752;Sawangan;2;1;46;90;599750000;Menengah
+1753;Cimanggis;4;2;180;450;1500000000;Mewah
+1754;Cinere;3;3;240;332;1500000000;Mewah
+1755;Cinere;4;3;115;105;1250000000;Menengah
+1756;Pancoran Mas;2;2;46;37;483738372;Sederhana
+1757;Pancoran Mas;2;1;36;81;460000000;Menengah
+1758;Beji;4;2;90;125;750000000;Menengah
+1759;Bojongsari;2;1;42;55;315000000;Sederhana
+1760;Sawangan;2;1;50;120;650000000;Menengah
+1761;Cilodong;3;2;56;40;550000000;Sederhana
+1762;Cilodong;3;2;60;76;625000000;Sederhana
+1763;Sawangan;4;3;210;248;1975000000;Mewah
+1764;Cipayung;2;1;36;50;255000000;Sederhana
+1765;Beji;2;1;42;58;580000000;Sederhana
+1766;Sawangan;2;1;41;105;545000000;Menengah
+1767;Sawangan;3;2;86;75;700000000;Sederhana
+1768;Pancoran Mas;3;2;108;54;682000000;Sederhana
+1769;Sawangan;3;1;45;70;595500000;Sederhana
+1770;Cilodong;2;1;54;72;650000000;Sederhana
+1771;Cimanggis;4;2;150;120;1000000000;Menengah
+1772;Pancoran Mas;2;1;45;65;400000000;Sederhana
+1773;Sawangan;2;1;36;69;317700000;Sederhana
+1774;Cilodong;2;1;70;70;375000000;Sederhana
+1775;Beji;4;4;147;122;1850000000;Menengah
+1776;Cinere;2;2;55;80;688000000;Menengah
+1777;Cinere;2;1;40;50;175000000;Sederhana
+1778;Sukmajaya;3;2;150;72;800000000;Sederhana
+1779;Sawangan;3;2;54;130;475000000;Menengah
+1780;Cimanggis;4;4;238;185;2600000000;Menengah
+1781;Sawangan;2;1;74;110;290000000;Menengah
+1782;Sawangan;2;1;36;64;325000000;Sederhana
+1783;Cinere;3;2;95;105;900000000;Menengah
+1784;Sukmajaya;9;6;600;364;4300000000;Mewah
+1785;Cipayung;2;1;33;60;185000000;Sederhana
+1786;Limo;2;1;30;36;170000000;Sederhana
+1787;Cipayung;2;1;45;54;184000000;Sederhana
+1788;Sukmajaya;3;1;127.5;404;1500000000;Mewah
+1789;Sawangan;2;1;36;60;300000000;Sederhana
+1790;Beji;2;2;50;60;875000000;Sederhana
+1791;Cimanggis;2;1;50;90;500000000;Menengah
+1792;Cimanggis;3;2;85;80;150000000;Menengah
+1793;Cipayung;2;1;30;69;360000000;Sederhana
+1794;Sawangan;2;1;70;114;690000000;Menengah
+1795;Sukmajaya;2;1;90;108;750000000;Menengah
+1796;Sukmajaya;2;1;43;116;950000000;Menengah
+1797;Cimanggis;3;2;164;82;1200000000;Menengah
+1798;Bojongsari;2;1;36;95;465000000;Menengah
+1799;Pancoran Mas;3;2;75;120;785000000;Menengah
+1800;Cinere;3;2;115;105;1000000000;Menengah
+1801;Beji;2;2;70;74;450000000;Sederhana
+1802;Cinere;4;2;166;139;1550000000;Menengah
+1803;Cilodong;2;1;60;91;565000000;Menengah
+1804;Cilodong;3;2;63;70;725000000;Sederhana
+1805;Cipayung;2;1;40;40;155000000;Sederhana
+1806;Cimanggis;4;3;150;115;990000000;Menengah
+1807;Sawangan;3;2;68;131;828000000;Menengah
+1808;Cipayung;2;1;45;60;250000000;Sederhana
+1809;Cinere;4;3;190;244;4800000000;Mewah
+1810;Cinere;3;1;100;100;630000000;Menengah
+1811;Beji;4;3;127;102;1600000000;Menengah
+1812;Cimanggis;4;2;110;71;695000000;Sederhana
+1813;Sawangan;2;1;36;60;285000000;Sederhana
+1814;Cilodong;3;2;70;66;750000000;Sederhana
+1815;Bojongsari;2;1;60;72;230000000;Sederhana
+1816;Cinere;3;2;65;60;884000000;Sederhana
+1817;Pancoran Mas;2;1;50;83;485000000;Menengah
+1818;Cilodong;2;2;36;88;400000000;Menengah
+1819;Cipayung;2;1;40;55;235000000;Sederhana
+1820;Cimanggis;4;3;240;245;1599000000;Mewah
+1821;Cipayung;1;2;34;0;270000000;Sederhana
+1822;Sawangan;3;1;55;58;428000000;Sederhana
+1823;Pancoran Mas;3;3;100;64;775000000;Sederhana
+1824;Cimanggis;2;1;36;50;175000010;Sederhana
+1825;Cipayung;2;1;40;59.4;326200000;Sederhana
+1826;Cipayung;2;1;40;55;205000000;Sederhana
+1827;Pancoran Mas;2;1;36;40;140000000;Sederhana
+1828;Pancoran Mas;2;1;45;65;400000000;Sederhana
+1829;Cimanggis;3;2;60;72;655000000;Sederhana
+1830;Cipayung;2;1;30;60;171000000;Sederhana
+1831;Pancoran Mas;4;3;310;260;1500000000;Mewah
+1832;Pancoran Mas;4;4;90;145;900000000;Menengah
+1833;Cimanggis;4;3;240;245;1599000000;Mewah
+1834;Sukmajaya;2;2;90;90;500000000;Menengah
+1835;Sawangan;3;1;55;58;428000000;Sederhana
+1836;Cipayung;2;1;45;60;185000000;Sederhana
+1837;Pancoran Mas;3;3;96;90;825000000;Menengah
+1838;Cinere;4;4;118;120;2000000000;Menengah
+1839;Beji;2;1;45;72;750000000;Sederhana
+1840;Cipayung;3;2;110;116;550000000;Menengah
+1841;Cinere;2;1;64;83;700000000;Menengah
+1842;Cipayung;2;1;40;45;150000000;Sederhana
+1843;Pancoran Mas;3;3;130;160;1900000000;Menengah
+1844;Pancoran Mas;2;1;45;72;430000000;Sederhana
+1845;Sawangan;4;3;248;210;1950000000;Mewah
+1846;Sawangan;2;1;40;55;375000000;Sederhana
+1847;Sawangan;2;1;48;96;875000000;Menengah
+1848;Beji;3;2;64;100;975000000;Menengah
+1849;Sawangan;3;2;50;50;378000000;Sederhana
+1850;Bojongsari;2;1;36;62;324500000;Sederhana
+1851;Cipayung;2;1;36;50;170000000;Sederhana
+1852;Sukmajaya;3;2;140;140;750000000;Menengah
+1853;Beji;3;2;170;202;1400000000;Mewah
+1854;Beji;3;3;100;60;950000000;Sederhana
+1855;Pancoran Mas;2;1;36;76;350000000;Sederhana
+1856;Cimanggis;4;4;112;173;1300000000;Menengah
+1857;Sukmajaya;3;1;90;90;450000000;Menengah
+1858;Sukmajaya;3;1;90;90;600000000;Menengah
+1859;Cilodong;2;1;45;100;350000000;Menengah
+1860;Cimanggis;4;2;150;150;1200000000;Menengah
+1861;Beji;3;2;170;202;1400000000;Mewah
+1862;Beji;3;2;64;100;975000000;Menengah
+1863;Sukmajaya;3;1;90;90;600000000;Menengah
+1864;Cinere;4;3;200;340;1850000000;Mewah
+1865;Cinere;3;3;85;78;825000000;Sederhana
+1866;Cimanggis;3;2;69;72;850000000;Sederhana
+1867;Sawangan;2;1;36;121;665000000;Menengah
+1868;Pancoran Mas;2;1;40;101;488250000;Menengah
+1869;Sawangan;3;1;75;135;600000000;Menengah
+1870;Cinere;2;2;60;72;873498600;Sederhana
+1871;Bojongsari;2;1;70;90;575000000;Menengah
+1872;Cimanggis;2;1;38;52;580000000;Sederhana
+1873;Pancoran Mas;3;2;60;111;585000000;Menengah
+1874;Cilodong;2;1;40;65;389900000;Sederhana
+1875;Beji;4;3;160;87;900000000;Menengah
+1876;Sawangan;3;2;82;133;625000000;Menengah
+1877;Cinere;3;2;70;84;650000000;Menengah
+1878;Beji;3;2;160;88;1700000000;Menengah
+1879;Bojongsari;2;1;30;60;660000000;Sederhana
+1880;Cilodong;3;1;112;112;575000000;Menengah
+1881;Pancoran Mas;3;2;83;83;400000000;Menengah
+1882;Cipayung;2;1;36;99;220000000;Menengah
+1883;Cimanggis;3;2;65;100;700000000;Menengah
+1884;Sawangan;3;2;70;150;375000000;Menengah
+1885;Sukmajaya;2;1;36;72;520000000;Sederhana
+1886;Cipayung;2;1;40;40;160000000;Sederhana
+1887;Cinere;4;3;243;339;1700000000;Mewah
+1888;Pancoran Mas;3;1;65;98;630000000;Menengah
+1889;Pancoran Mas;2;1;1;50;135000000;Sederhana
+1890;Tapos;2;1;30;106;525000000;Menengah
+1891;Sawangan;3;2;110;125;950000000;Menengah
+1892;Cimanggis;3;3;100;62;689000000;Sederhana
+1893;Cinere;8;5;400;240;2200000000;Mewah
+1894;Cilodong;3;2;54;62;565000000;Sederhana
+1895;Cipayung;2;1;45;55;165000000;Sederhana
+1896;Cipayung;2;1;54;77;250000000;Sederhana
+1897;Cimanggis;2;1;30;50;178000000;Sederhana
+1898;Cimanggis;3;1;100;52;500000000;Sederhana
+1899;Cinere;4;2;300;284;2400000000;Mewah
+1900;Cimanggis;2;1;45;92;431000000;Menengah
+1901;Cimanggis;0;0;92;46;464600000;Sederhana
+1902;Sukmajaya;5;1;90;90;570000000;Menengah
+1903;Sawangan;4;4;218;240;1400000000;Mewah
+1904;Cinere;3;2;200;140;1500000000;Menengah
+1905;Pancoran Mas;2;1;36;84;420000000;Menengah
+1906;Cimanggis;2;1;54;85;549005000;Menengah
+1907;Pancoran Mas;3;2;72;90;998000000;Menengah
+1908;Cimanggis;2;1;25;50;165000000;Sederhana
+1909;Sukmajaya;1;1;30;50;195000000;Sederhana
+1910;Cipayung;2;1;40;40;135000000;Sederhana
+1911;Sukmajaya;3;2;114;90;700000000;Menengah
+1912;Sawangan;3;2;120;150;950000000;Menengah
+1913;Sawangan;3;2;200;833;2200000000;Mewah
+1914;Cilodong;1;1;24;30;222500000;Sederhana
+1915;Cimanggis;2;2;85;90;750000000;Menengah
+1916;Cinere;3;2;250;700;1900000000;Mewah
+1917;Pancoran Mas;2;1;55;100;450000000;Menengah
+1918;Cilodong;2;1;43;76;485000000;Sederhana
+1919;Sukmajaya;2;1;70;90;555000000;Menengah
+1920;Bojongsari;3;2;85;102;600000000;Menengah
+1921;Sawangan;3;2;120;150;950000000;Menengah
+1922;Tapos;2;2;90;136;735000000;Menengah
+1923;Cimanggis;2;1;25;50;165000000;Sederhana
+1924;Sukmajaya;1;1;30;50;195000000;Sederhana
+1925;Beji;3;2;55;78;733890000;Sederhana
+1926;Cipayung;2;1;40;60;300000000;Sederhana
+1927;Pancoran Mas;3;1;70;98;575000000;Menengah
+1928;Cinere;4;3;115;105;1400000000;Menengah
+1929;Bojongsari;2;1;36;66;340500000;Sederhana
+1930;Cilodong;2;1;36;60;461000000;Sederhana
+1931;Cipayung;2;1;36;72;393000000;Sederhana
+1932;Pancoran Mas;2;1;50;50;170000000;Sederhana
+1933;Cipayung;2;1;36;50;195000000;Sederhana
+1934;Cipayung;2;1;45;50;175000000;Sederhana
+1935;Cinere;3;3;90;60;800000000;Sederhana
+1936;Sawangan;2;1;45;68;300000000;Sederhana
+1937;Sukmajaya;4;3;140;91;890000000;Menengah
+1938;Cinere;2;1;45;78;984500000;Sederhana
+1939;Pancoran Mas;2;1;50;67;600000000;Sederhana
+1940;Cimanggis;2;1;36;66;455000000;Sederhana
+1941;Cipayung;2;1;45;50;155000000;Sederhana
+1942;Bojongsari;3;2;39;96;550000000;Menengah
+1943;Limo;2;2;85;106;650000000;Menengah
+1944;Cimanggis;6;4;220;255;2390000000;Mewah
+1945;Sawangan;2;1;36;90;380000000;Menengah
+1946;Pancoran Mas;6;4;276;408;4000000000;Mewah
+1947;Cimanggis;11;6;800;1104;4900000000;Mewah
+1948;Sawangan;2;2;85;120;850000000;Menengah
+1949;Sawangan;2;1;40;60;300000000;Sederhana
+1950;Cinere;3;2;135;134;1300000000;Menengah
+1951;Sawangan;2;1;45;88;580000000;Menengah
+1952;Bojongsari;3;1;96;235;1100000000;Mewah
+1953;Beji;6;5;300;450;5000000000;Mewah
+1954;Pancoran Mas;3;2;81;68;835036000;Sederhana
+1955;Cinere;4;4;800;329;11000000000;Mewah
+1956;Cipayung;2;1;50;72;400000000;Sederhana
+1957;Cinere;3;2;135;134;1300000000;Menengah
+1958;Sawangan;2;1;36;101;581200000;Menengah
+1959;Pancoran Mas;2;1;60;97;575000000;Menengah
+1960;Sawangan;4;3;210;248;1975000000;Mewah
+1961;Sawangan;2;1;40;60;300000000;Sederhana
+1962;Sukmajaya;4;2;165;64;1800000000;Sederhana
+1963;Pancoran Mas;3;1;101;45;525000000;Sederhana
+1964;Cinere;2;1;40;60;185000000;Sederhana
+1965;Cimanggis;4;2;140;150;900000000;Menengah
+1966;Cinere;4;3;150;129;2700000000;Menengah
+1967;Sawangan;3;2;130;130;655000000;Menengah
+1968;Sawangan;2;1;27;40;195800000;Sederhana
+1969;Beji;2;1;36;60;555000000;Sederhana
+1970;Cipayung;2;1;36;66;375000000;Sederhana
+1971;Sawangan;3;2;55;58;503670000;Sederhana
+1972;Cimanggis;3;2;80;50;600000000;Sederhana
+1973;Cimanggis;4;3;200;186;2300000000;Menengah
+1974;Pancoran Mas;2;1;60;66;586200000;Sederhana
+1975;Pancoran Mas;2;1;45;120;250000000;Menengah
+1976;Pancoran Mas;3;4;212;160;2350000000;Menengah
+1977;Beji;2;1;85;93;800000000;Menengah
+1978;Cipayung;2;1;48;75;270000000;Sederhana
+1979;Cimanggis;2;1;42;86;525000000;Menengah
+1980;Cinere;2;1;33;66;375000000;Sederhana
+1981;Cinere;4;3;200;167;1900000000;Menengah
+1982;Pancoran Mas;2;1;60;60;230000000;Sederhana
+1983;Sukmajaya;2;1;72;72;639000000;Sederhana
+1984;Limo;2;1;80;80;400000000;Menengah
+1985;Cinere;3;2;200;240;2500000000;Mewah
+1986;Cipayung;2;1;40;50;185000000;Sederhana
+1987;Cinere;1;1;45;50;295000000;Sederhana
+1988;Bojongsari;2;1;38;94;625000000;Menengah
+1989;Sawangan;3;3;180;234;2100000000;Mewah
+1990;Bojongsari;4;2;120;150;600000000;Menengah
+1991;Cimanggis;7;5;200;196;1800000000;Menengah
+1992;Sawangan;2;1;60;160;640000000;Menengah
+1993;Cimanggis;5;3;205;135;1300000000;Menengah
+1994;Cinere;4;3;150;97;900000000;Menengah
+1995;Pancoran Mas;2;1;36;72;457500000;Sederhana
+1996;Sawangan;2;1;45;72;425000000;Sederhana
+1997;Beji;2;1;36;60;295000000;Sederhana
+1998;Beji;3;1;90;140;1200000000;Menengah
+1999;Cilodong;2;2;55;108;600000000;Menengah
+2000;Sawangan;2;1;45;132;690000000;Menengah
+2001;Cimanggis;4;3;164;128;1600000000;Menengah
+2002;Beji;5;5;230;200;4500000000;Menengah
+2003;Sawangan;2;1;36;84;130000000;Menengah
+2004;Cimanggis;4;2;243;256;2600000000;Mewah
+2005;Cinere;5;4;350;240;3400000000;Mewah
+2006;Cimanggis;2;1;25;50;188000000;Sederhana
+2007;Bojongsari;3;2;72;80;650000000;Menengah
+2008;Pancoran Mas;3;2;180;180;1400000000;Menengah
+2009;Cipayung;2;1;36;66;385000000;Sederhana
+2010;Beji;3;2;90;72;1275000000;Sederhana
+2011;Cipayung;2;1;35;54;172000000;Sederhana
+2012;Cinere;1;1;48;50;295000000;Sederhana
+2013;Sawangan;5;5;315;1500;5000000000;Mewah
+2014;Bojongsari;2;1;36;70;385000000;Sederhana
+2015;Pancoran Mas;4;3;200;144;1375000000;Menengah
+2016;Beji;2;1;100;660;4500000000;Mewah
+2017;Bojongsari;3;1;45;72;500000000;Sederhana
+2018;Cipayung;2;1;40;40;144000000;Sederhana
+2019;Beji;3;2;90;72;1275000000;Sederhana
+2020;Cipayung;2;1;40;70;372000000;Sederhana
+2021;Sawangan;3;2;70;72;750000000;Sederhana
+2022;Cipayung;2;1;60;40;220000000;Sederhana
+2023;Cipayung;2;1;36;66;385000000;Sederhana
+2024;Pancoran Mas;2;1;45;84;435000000;Menengah
+2025;Sawangan;2;1;90;72;450000000;Sederhana
+2026;Beji;3;3;100;102;1410000000;Menengah
+2027;Cinere;3;4;160;174;1900000000;Menengah
+2028;Cimanggis;7;6;400;2185;3900000000;Mewah
+2029;Cimanggis;6;6;800;5100;30000000000;Mewah
+2030;Cinere;3;3;400;480;5999000000;Mewah
+2031;Cinere;4;3;240;320;2500000000;Mewah
+2032;Cimanggis;4;3;250;200;1600000000;Menengah
+2033;Pancoran Mas;2;1;36;70;495000000;Sederhana
+2034;Bojongsari;2;1;36;107;490000000;Menengah
+2035;Sukmajaya;3;2;150;90;680000000;Menengah
+2036;Pancoran Mas;2;1;36;63;390000000;Sederhana
+2037;Cimanggis;4;3;300;859;5900000000;Mewah
+2038;Cipayung;2;1;36;50;265000000;Sederhana
+2039;Cimanggis;3;3;158;158;1300000000;Menengah
+2040;Cimanggis;4;3;180;144;1900000000;Menengah
+2041;Cipayung;2;1;36;50;265000000;Sederhana
+2042;Cimanggis;4;3;300;859;5900000000;Mewah
+2043;Cipayung;2;1;55;75;250000000;Sederhana
+2044;Cilodong;2;10;36;72;290000000;Sederhana
+2045;Cimanggis;6;7;400;1085;5900000000;Mewah
+2046;Pancoran Mas;4;2;70;100;650000000;Menengah
+2047;Cinere;5;3;190;894;6500000000;Mewah
+2048;Cinere;3;2;166;139;1700000000;Menengah
+2049;Pancoran Mas;5;5;300;337;2000000000;Mewah
+2050;Cimanggis;5;3;84;84;1250000000;Menengah
+2051;Beji;2;1;45;78;888000000;Sederhana
+2052;Cimanggis;3;3;158;158;1300000000;Menengah
+2053;Cimanggis;4;3;180;144;1900000000;Menengah
+2054;Pancoran Mas;4;3;120;81;1200000000;Menengah
+2055;Cilodong;3;2;60;84;679250000;Menengah
+2056;Beji;2;1;80;234;1200000000;Mewah
+2057;Cipayung;2;1;55;65;260000000;Sederhana
+2058;Cinere;4;4;165;139;1800000000;Menengah
+2059;Beji;3;2;65;94;850000000;Menengah
+2060;Cinere;2;1;25;50;188000000;Sederhana
+2061;Pancoran Mas;3;2;65;80;650000000;Menengah
+2062;Sawangan;3;1;65;84;500000000;Menengah
+2063;Bojongsari;2;1;48;84;480000000;Menengah
+2064;Cimanggis;4;4;450;687;11250000000;Mewah
+2065;Beji;3;2;90;91;130000000;Menengah
+2066;Pancoran Mas;2;1;55;94;730000000;Menengah
+2067;Pancoran Mas;3;2;70;55;760502000;Sederhana
+2068;Cimanggis;3;2;65;70;800000000;Sederhana
+2069;Sawangan;2;1;36;58;250000000;Sederhana
+2070;Sawangan;3;2;63;90;998000000;Menengah
+2071;Pancoran Mas;4;4;119;86;1200000000;Menengah
+2072;Cilodong;2;1;48;80;650000000;Menengah
+2073;Cipayung;2;1;36;50;185000000;Sederhana
+2074;Cimanggis;3;2;180;210;1600000000;Mewah
+2075;Cimanggis;2;1;80;100;550000000;Menengah
+2076;Sawangan;2;1;70;92;590000000;Menengah
+2077;Cimanggis;1;1;27;40;175000000;Sederhana
+2078;Cipayung;2;1;45;50;170000000;Sederhana
+2079;Cinere;4;4;150;110;1750000000;Menengah
+2080;Cilodong;2;2;60;104;653000000;Menengah
+2081;Sawangan;3;2;70;72;690000000;Sederhana
+2082;Bojongsari;3;2;60;72;900000000;Sederhana
+2083;Beji;4;3;120;180;1000000000;Menengah
+2084;Cipayung;2;1;36;50;175000000;Sederhana
+2085;Cimanggis;5;2;200;136;1310000000;Menengah
+2086;Sawangan;4;2;140;120;1100000000;Menengah
+2087;Sawangan;3;2;63;90;998000000;Menengah
+2088;Sawangan;2;1;42;90;610000000;Menengah
+2089;Cimanggis;3;3;78;123;1645000000;Menengah
+2090;Cinere;4;2;150;72;1200000000;Sederhana
+2091;Sawangan;2;1;52;92;460000000;Menengah
+2092;Cipayung;2;1;36;50;195000000;Sederhana
+2093;Cipayung;2;1;40;40;150000000;Sederhana
+2094;Beji;3;1;80;140;650000000;Menengah
+2095;Cinere;2;2;100;228;1500000000;Mewah
+2096;Cinere;3;3;250;344;1725000000;Mewah
+2097;Cinere;3;3;86;119;1850000000;Menengah
+2098;Sukmajaya;3;1;102;102;570000000;Menengah
+2099;Pancoran Mas;3;2;60;72;690000000;Sederhana
+2100;Cilodong;2;1;36;61;521800000;Sederhana
+2101;Cilodong;2;1;36;61;521800000;Sederhana
+2102;Sukmajaya;2;1;50;84;550000000;Menengah
+2103;Sukmajaya;3;1;102;102;570000000;Menengah
+2104;Cinere;4;4;150;110;1750000000;Menengah
+2105;Cilodong;2;2;60;104;653000000;Menengah
+2106;Beji;3;2;55;78;780000000;Sederhana
+2107;Cilodong;2;1;36;60;400000000;Sederhana
+2108;Pancoran Mas;4;2;100;180;1250000000;Menengah
+2109;Cipayung;3;2;100;100;350000000;Menengah
+2110;Beji;3;2;85;75;982000000;Sederhana
+2111;Cimanggis;2;1;36;50;235000000;Sederhana
+2112;Sawangan;2;1;38;78;315000000;Sederhana
+2113;Limo;4;3;150;90;1100000000;Menengah
+2114;Sawangan;3;2;150;460;1800000000;Mewah
+2115;Pancoran Mas;3;2;70;72;795000000;Sederhana
+2116;Bojongsari;2;1;36;72;275000000;Sederhana
+2117;Sukmajaya;3;2;140;140;750000000;Menengah
+2118;Cimanggis;2;2;75;96;850000000;Menengah
+2119;Sawangan;2;1;36;60;250000000;Sederhana
+2120;Beji;5;4;507;600;6000000000;Mewah
+2121;Cipayung;2;1;40;50;184000000;Sederhana
+2122;Cipayung;2;1;36;60;345000000;Sederhana
+2123;Cipayung;2;1;45;70;320000000;Sederhana
+2124;Cipayung;3;1;55;76;575000000;Sederhana
+2125;Cinere;4;3;130;170;2500000000;Menengah
+2126;Cimanggis;2;1;40;65;500000000;Sederhana
+2127;Cinere;5;4;287;100;1980000000;Menengah
+2128;Beji;4;2;120;255;1100000000;Mewah
+2129;Cimanggis;5;4;180;222;2200000000;Mewah
+2130;Sawangan;2;1;36;60;270000000;Sederhana
+2131;Cinere;2;1;90;72;1200000000;Sederhana
+2132;Pancoran Mas;2;1;50;72;320000000;Sederhana
+2133;Sawangan;3;1;60;120;200000000;Menengah
+2134;Cimanggis;3;3;74;80;840000000;Menengah
+2135;Limo;2;1;38;94;572000000;Menengah
+2136;Pancoran Mas;5;5;470;412;5275000000;Mewah
+2137;Pancoran Mas;3;2;70;104;885000000;Menengah
+2138;Beji;4;3;368;255;3950000000;Mewah
+2139;Pancoran Mas;2;1;48;120;1000000000;Menengah
+2140;Sawangan;2;1;39;97;230000000;Menengah
+2141;Cinere;3;2;72;67;815970515;Sederhana
+2142;Bojongsari;2;2;75;93;405000000;Menengah
+2143;Cinere;4;3;170;105;1650000000;Menengah
+2144;Pancoran Mas;2;1;65;79;625000000;Sederhana
+2145;Cimanggis;4;5;275;200;3500000000;Menengah
+2146;Sawangan;3;2;80;94;350000000;Menengah
+2147;Pancoran Mas;2;1;45;60;235000000;Sederhana
+2148;Sukmajaya;3;2;84;80;1050000000;Menengah
+2149;Cilodong;2;1;24;42;243000000;Sederhana
+2150;Sukmajaya;3;3;180;93;1300000000;Menengah
+2151;Pancoran Mas;2;1;60;100;575000000;Menengah
+2152;Beji;3;3;90;60;900000000;Sederhana
+2153;Cinere;6;5;240;175;2500000000;Menengah
+2154;Sawangan;2;1;48;71;325000000;Sederhana
+2155;Cinere;2;2;130;154;2200000000;Menengah
+2156;Cinere;2;1;40;76;685000000;Sederhana
+2157;Cinere;4;3;200;150;2900000000;Menengah
+2158;Citayam;2;1;42;80;315000000;Menengah
+2159;Sawangan;4;3;170;280;3000000000;Mewah
+2160;Cimanggis;4;2;185;295;1650000000;Mewah
+2161;Cilodong;2;2;70;120;675000000;Menengah
+2162;Sawangan;3;2;56;97;660000000;Menengah
+2163;Cinere;4;2;400;340;3200000000;Mewah
+2164;Cilodong;2;1;32;60;280000000;Sederhana
+2165;Cimanggis;5;4;145;128;2595000000;Menengah
+2166;Pancoran Mas;2;1;36;60;442000000;Sederhana
+2167;Beji;6;5;507;1386;13000000000;Mewah
+2168;Cimanggis;3;2;200;521;1400000000;Mewah
+2169;Pancoran Mas;2;1;120;126;950000000;Menengah
+2170;Pancoran Mas;3;2;72;90;997600000;Menengah
+2171;Cilodong;4;3;150;100;900000000;Menengah
+2172;Cinere;3;2;73;60;1200000000;Sederhana
+2173;Sawangan;2;1;45;80;565000000;Menengah
+2174;Cilodong;2;2;45;72;510000000;Sederhana
+2175;Cipayung;2;1;40;50;150000000;Sederhana
+2176;Sukmajaya;2;1;78;90;450000000;Menengah
+2177;Cimanggis;3;2;200;521;1500000000;Mewah
+2178;Cipayung;2;1;36;60;195000000;Sederhana
+2179;Cilodong;2;1;50;100;480000000;Menengah
+2180;Sawangan;3;1;60;75;280000000;Sederhana
+2181;Sukmajaya;2;2;67;90;500000000;Menengah
+2182;Cilodong;3;2;120;108;700000000;Menengah
+2183;Cimanggis;2;1;40;50;150000000;Sederhana
+2184;Cipayung;2;1;45;65;266000000;Sederhana
+2185;Cinere;3;2;120;128;1400000000;Menengah
+2186;Pancoran Mas;3;2;65;67;550000000;Sederhana
+2187;Sawangan;2;2;157;309;1300000000;Mewah
+2188;Tapos;3;1;70;110;370000090;Menengah
+2189;Beji;6;4;620;1055;4700000000;Mewah
+2190;Cimanggis;2;1;25;50;178000000;Sederhana
+2191;Cilodong;3;3;118;108;875000000;Menengah
+2192;Cimanggis;2;1;54;95;669950000;Menengah
+2193;Sawangan;2;1;45;70;390000000;Sederhana
+2194;Cinere;6;5;205;230;3500000000;Mewah
+2195;Cinere;2;2;70;90;1250000000;Menengah
+2196;Beji;3;2;90;112;870000000;Menengah
+2197;Cimanggis;3;2;110;72;685000000;Sederhana
+2198;Sawangan;2;1;36;60;285000000;Sederhana
+2199;Cilodong;5;3;100;183;1200000000;Menengah
+2200;Pancoran Mas;6;3;180;150;2100000000;Menengah
+2201;Beji;3;2;91;79;1280600000;Sederhana
+2202;Cilodong;2;2;46;100;580000000;Menengah
+2203;Sawangan;3;2;60;98;450000000;Menengah
+2204;Cipayung;2;1;40;60;240000000;Sederhana
+2205;Cipayung;2;1;55;66;285000000;Sederhana
+2206;Sawangan;3;1;60;75;280000000;Sederhana
+2207;Pancoran Mas;2;2;66;53;575000000;Sederhana
+2208;Cinere;3;2;98;67;990000000;Sederhana
+2209;Pancoran Mas;2;2;90;103;900000000;Menengah
+2210;Sawangan;4;3;175;253;1900000000;Mewah
+2211;Beji;3;3;147;122;1850000000;Menengah
+2212;Cimanggis;3;3;225;160;2375000000;Menengah
+2213;Beji;3;3;88;100;1250000000;Menengah
+2214;Sawangan;2;2;60;90;440000000;Menengah
+2215;Pancoran Mas;4;2;300;200;1500000000;Menengah
+2216;Cilodong;2;1;36;84;300000000;Menengah
+2217;Pancoran Mas;3;2;120;275;1890000000;Mewah
+2218;Pancoran Mas;3;2;120;78;950000000;Sederhana
+2219;Pancoran Mas;4;2;90;90;400000000;Menengah
+2220;Cinere;5;3;500;322;4700000000;Mewah
+2221;Pancoran Mas;2;1;40;66;385000000;Sederhana
+2222;Sukmajaya;3;2;100;150;725000000;Menengah
+2223;Cimanggis;6;4;445;299;1200000000;Mewah
+2224;Cimanggis;3;2;183;105;2200000000;Menengah
+2225;Cipayung;2;1;40;69;410000000;Sederhana
+2226;Pancoran Mas;4;2;75;124;815000000;Menengah
+2227;Sukmajaya;2;1;50;50;400000000;Sederhana
+2228;Limo;2;1;45;72;624700000;Sederhana
+2229;Sawangan;2;1;70;87;150000000;Menengah
+2230;Pancoran Mas;2;1;50;50;250000000;Sederhana
+2231;Cimanggis;2;1;45;82;435000000;Menengah
+2232;Cilodong;7;4;274;137;1100000000;Menengah
+2233;Sawangan;2;2;30;72;180000000;Sederhana
+2234;Beji;2;1;50;73;350000000;Sederhana
+2235;Cinere;5;4;184;114;1000000000;Menengah
+2236;Pancoran Mas;2;1;40;61;230000000;Sederhana
+2237;Sawangan;2;1;36;51;235000000;Sederhana
+2238;Cilodong;2;1;24;42;233000000;Sederhana
+2239;Cilodong;2;1;63;129;550000000;Menengah
+2240;Bojongsari;3;1;60;153;550000000;Menengah
+2241;Cinere;4;2;300;200;2850000000;Menengah
+2242;Cimanggis;4;4;160;96;975000000;Menengah
+2243;Cinere;3;2;80;177;1200000000;Menengah
+2244;Sawangan;2;1;36;100;350000000;Menengah
+2245;Cimanggis;2;1;40;50;175000000;Sederhana
+2246;Beji;2;1;60;81;630000000;Menengah
+2247;Tapos;0;0;0;435;1880000000;Mewah
+2248;Cimanggis;2;1;36;66;600000000;Sederhana
+2249;Bojongsari;2;1;38;72;282000000;Sederhana
+2250;Bojongsari;2;2;65;70;275000000;Sederhana
+2251;Beji;4;4;120;100;1500000000;Menengah
+2252;Pancoran Mas;2;1;54;54;195000000;Sederhana
+2253;Pancoran Mas;2;1;40;60;185000000;Sederhana
+2254;Bojongsari;0;0;38;72;290000000;Sederhana
+2255;Sawangan;3;2;117;160;1600000000;Menengah
+2256;Cimanggis;3;2;80;50;549999990;Sederhana
+2257;Cinere;4;2;90;156;2000000000;Menengah
+2258;Cimanggis;4;3;220;210;1749900000;Mewah
+2259;Pancoran Mas;3;2;89;105;950000000;Menengah
+2260;Pancoran Mas;2;2;70;144;1285000000;Menengah
+2261;Cipayung;2;1;45;70;270000000;Sederhana
+2262;Cilodong;2;2;45;1;400000000;Sederhana
+2263;Cipayung;2;1;42;42;150000000;Sederhana
+2264;Cilodong;2;1;36;50;385000000;Sederhana
+2265;Sawangan;3;2;70;84;692000000;Menengah
+2266;Cilodong;2;1;24;61;363000000;Sederhana
+2267;Sawangan;2;1;36;60;195000000;Sederhana
+2268;Sawangan;2;1;36;65;321000000;Sederhana
+2269;Sawangan;2;1;30;30;125000000;Sederhana
+2270;Cipayung;2;1;40;40;130000000;Sederhana
+2271;Beji;2;1;45;55;575000000;Sederhana
+2272;Beji;3;3;140;105;1300000000;Menengah
+2273;Cipayung;2;1;36;50;175000000;Sederhana
+2274;Beji;3;2;130;84;995000000;Menengah
+2275;Sawangan;2;1;36;55;265000000;Sederhana
+2276;Cinere;2;1;25;50;188000000;Sederhana
+2277;Beji;2;1;45;70;660000000;Sederhana
+2278;Sukmajaya;3;3;150;100;1200000000;Menengah
+2279;Beji;2;1;45;73;630000000;Sederhana
+2280;Beji;4;3;150;245;2000000000;Mewah
+2281;Cipayung;2;1;36;50;200000000;Sederhana
+2282;Cinere;4;3;180;198;2900000000;Menengah
+2283;Cipayung;2;1;60;112;530000000;Menengah
+2284;Cinere;6;5;300;299;4000000000;Mewah
+2285;Cinere;4;3;200;264;2300000000;Mewah
+2286;Pancoran Mas;2;1;40;50;155000000;Sederhana
+2287;Cipayung;2;1;50;50;190000000;Sederhana
+2288;Pancoran Mas;2;1;50;73;325000000;Sederhana
+2289;Cipayung;2;1;36;60;400000000;Sederhana
+2290;Sawangan;2;1;45;80;565000000;Menengah
+2291;Cinere;3;3;250;228;3250000000;Mewah
+2292;Beji;3;3;115;89;1250000000;Menengah
+2293;Cinere;4;4;180;120;2000000000;Menengah
+2294;Cimanggis;4;3;78;123;1295000000;Menengah
+2295;Cipayung;2;1;40;50;182000000;Sederhana
+2296;Pancoran Mas;2;1;65;82;650000000;Menengah
+2297;Beji;3;3;110;70;975000000;Sederhana
+2298;Pancoran Mas;3;1;80;115;939000000;Menengah
+2299;Tapos;2;1;40;63;360500000;Sederhana
+2300;Cinere;2;1;55;99;595000000;Menengah
+2301;Cinere;4;4;180;120;2100000000;Menengah
+2302;Cinere;2;3;130;128;1950000000;Menengah
+2303;Beji;2;1;72;81;730000000;Menengah
+2304;Bojongsari;2;1;30;60;320000000;Sederhana
+2305;Sawangan;2;1;100;173;880000000;Menengah
+2306;Cipayung;2;1;50;50;250000000;Sederhana
+2307;Pancoran Mas;2;1;45;70;645000000;Sederhana
+2308;Sukmajaya;4;4;143;99;1250000000;Menengah
+2309;Cipayung;2;1;90;90;300000000;Menengah
+2310;Cipayung;2;1;40;40;148000000;Sederhana
+2311;Cinere;3;2;72;67;815976515;Sederhana
+2312;Cinere;0;0;0;240;2750000000;Mewah
+2313;Cilodong;2;1;60;85;485000000;Menengah
+2314;Sawangan;2;1;36;60;270000000;Sederhana
+2315;Cilodong;2;1;36;84;400000000;Menengah
+2316;Cinere;2;1;34;70;619700000;Sederhana
+2317;Cinere;4;3;200;120;2000000000;Menengah
+2318;Pancoran Mas;2;1;45;72;427000000;Sederhana
+2319;Bojongsari;2;2;38;72;393992000;Sederhana
+2320;Cinere;8;6;732;700;9750000000;Mewah
+2321;Sawangan;4;3;320;2648;7500000000;Mewah
+2322;Bojongsari;2;1;38;72;390000000;Sederhana
+2323;Pancoran Mas;2;3;100;100;350000000;Menengah
+2324;Sukmajaya;3;1;68;75;575000000;Sederhana
+2325;Cimanggis;2;1;42;66;450000000;Sederhana
+2326;Sukmajaya;4;4;100;108;1120000000;Menengah
+2327;Tapos;20;20;605;895;1750000000;Mewah
+2328;Cipayung;2;1;36;60;349000000;Sederhana
+2329;Cinere;4;3;85;120;1400000000;Menengah
+2330;Sukmajaya;3;2;100;150;725000000;Menengah
+2331;Beji;3;2;115;86;995000000;Menengah
+2332;Limo;1;1;24;24;100000000;Sederhana
+2333;Cipayung;2;1;35;35;155000000;Sederhana
+2334;Cilodong;5;2;165;598;3500000000;Mewah
+2335;Cilodong;2;1;36;84;450000000;Menengah
+2336;Sukmajaya;3;2;130;138;482000000;Menengah
+2337;Sawangan;4;1;60;65;420000000;Sederhana
+2338;Cipayung;3;2;55;72;588000000;Sederhana
+2339;Beji;2;1;70;70;500000000;Sederhana
+2340;Cinere;2;2;60;50;775000000;Sederhana
+2341;Cinere;3;3;100;107;1695412500;Menengah
+2342;Pancoran Mas;2;2;150;290;1500000000;Mewah
+2343;Cipayung;2;1;36;50;225000000;Sederhana
+2344;Limo;2;2;70;35;250000000;Sederhana
+2345;Pancoran Mas;2;1;60;96;685000000;Menengah
+2346;Pancoran Mas;4;4;170;120;1600000000;Menengah
+2347;Sawangan;2;1;50;80;435000000;Menengah
+2348;Cilodong;2;1;45;60;195000000;Sederhana
+2349;Tapos;4;2;105;65;660000000;Sederhana
+2350;Cimanggis;2;1;60;120;475000000;Menengah
+2351;Tapos;2;1;30;60;345000000;Sederhana
+2352;Cilodong;2;1;36;61;228080000;Sederhana
+2353;Pancoran Mas;2;1;35;40;180000000;Sederhana
+2354;Cinere;5;4;550;1170;6000000000;Mewah
+2355;Cimanggis;3;2;100;65;500000000;Sederhana
+2356;Cilodong;2;1;36;84;519200000;Menengah
+2357;Sawangan;4;2;300;89;875000000;Menengah
+2358;Pancoran Mas;1;2;35;20;150000000;Sederhana
+2359;Sukmajaya;4;2;65;81;790000000;Menengah
+2360;Cipayung;3;1;60;85;315000000;Menengah
+2361;Bojongsari;2;1;36;72;120000000;Sederhana
+2362;Pancoran Mas;2;1;60;60;290000000;Sederhana
+2363;Beji;3;3;129;100;1150000000;Menengah
+2364;Sawangan;3;2;70;60;604500000;Sederhana
+2365;Sukmajaya;5;3;150;224;1100000000;Mewah
+2366;Cipayung;2;1;50;55;195000000;Sederhana
+2367;Sawangan;2;1;0;0;190000000;Sederhana
+2368;Cipayung;2;1;36;72;228080000;Sederhana
+2369;Cimanggis;2;1;84;84;650000000;Menengah
+2370;Beji;4;2;130;73;850000000;Sederhana
+2371;Cilodong;2;1;45;60;195000000;Sederhana
+2372;Cimanggis;3;2;100;65;500000000;Sederhana
+2373;Sawangan;2;1;0;0;190000000;Sederhana
+2374;Beji;3;2;90;60;870000000;Sederhana
+2375;Cimanggis;2;1;36;84;389200000;Menengah
+2376;Cinere;6;6;700;414;7000000000;Mewah
+2377;Sukmajaya;4;1;80;96;650000000;Menengah
+2378;Beji;2;1;43;51;547000000;Sederhana
+2379;Limo;3;2;80;72;750000000;Sederhana
+2380;Sawangan;2;1;40;65;265000000;Sederhana
+2381;Bojongsari;2;1;36;70;390000000;Sederhana
+2382;Pancoran Mas;3;3;90;120;1400000000;Menengah
+2383;Tapos;4;3;115;73;686000000;Sederhana
+2384;Cilodong;4;2;180;108;1000000000;Menengah
+2385;Pancoran Mas;2;1;72;60;590000000;Sederhana
+2386;Cinere;5;4;400;366;4500000000;Mewah
+2387;Cinere;6;4;800;975;12000000000;Mewah
+2388;Sawangan;3;4;135;96;900000000;Menengah
+2389;Pancoran Mas;2;1;40;60;375000000;Sederhana
+2390;Cilodong;2;1;89;99;620000000;Menengah
+2391;Cipayung;2;1;36;50;225000000;Sederhana
+2392;Pancoran Mas;3;2;90;105;1300000000;Menengah
+2393;Cipayung;2;1;45;87;485000000;Menengah
+2394;Cipayung;2;1;36;50;188000000;Sederhana
+2395;Cipayung;2;1;40;40;140000000;Sederhana
+2396;Cinere;2;1;40;60;200000000;Sederhana
+2397;Cimanggis;2;1;36;72;250000000;Sederhana
+2398;Bojongsari;3;1;61;91;888800000;Menengah
+2399;Cimanggis;1;1;135;430;550000000;Mewah
+2400;Cimanggis;4;2;150;207;1200000000;Mewah
+2401;Cimanggis;1;1;135;430;550000000;Mewah
+2402;Bojongsari;3;1;61;91;888800000;Menengah
+2403;Cimanggis;4;2;150;207;1200000000;Mewah
+2404;Cinere;5;5;180;192;3500000000;Menengah
+2405;Pancoran Mas;2;1;72;60;590000000;Sederhana
+2406;Cilodong;4;2;180;108;1000000000;Menengah
+2407;Tapos;4;3;115;73;686000000;Sederhana
+2408;Pancoran Mas;3;3;90;120;1400000000;Menengah
+2409;Sukmajaya;2;2;55;87;720000000;Menengah
+2410;Cinere;9;7;800;1114;9000000000;Mewah
+2411;Cilodong;1;1;25;35;232000000;Sederhana
+2412;Cimanggis;3;2;140;69;1150000000;Sederhana
+2413;Cinere;3;2;100;140;1500000000;Menengah
+2414;Bojongsari;2;1;36;70;390000000;Sederhana
+2415;Cipayung;2;1;50;50;195000000;Sederhana
+2416;Cilodong;2;1;65;93;175000000;Menengah
+2417;Sawangan;2;1;48;40;420000000;Sederhana
+2418;Cimanggis;4;2;200;127;1300000000;Menengah
+2419;Cinere;4;3;350;477;4099000000;Mewah
+2420;Pancoran Mas;4;3;115;89;1200000000;Menengah
+2421;Sawangan;2;1;30;50;299700000;Sederhana
+2422;Pancoran Mas;3;3;99;212;1500000000;Mewah
+2423;Tapos;2;1;45;72;325000000;Sederhana
+2424;Sawangan;2;2;70;127;650000000;Menengah
+2425;Cilodong;2;1;42;72;150000000;Sederhana
+2426;Cimanggis;6;5;510;299;1500000000;Mewah
+2427;Cipayung;2;1;36;50;175000000;Sederhana
+2428;Sawangan;4;3;130;120;800000000;Menengah
+2429;Cilodong;2;2;90;72;425000000;Sederhana
+2430;Beji;3;3;140;100;1475000000;Menengah
+2431;Sawangan;4;3;130;120;800000000;Menengah
+2432;Sawangan;2;2;70;127;650000000;Menengah
+2433;Sawangan;2;1;30;50;299700000;Sederhana
+2434;Tapos;2;1;45;72;325000000;Sederhana
+2435;Beji;1;1;24;24;190000000;Sederhana
+2436;Cinere;2;1;85;74;650000000;Sederhana
+2437;Sawangan;4;2;156;108;1200000000;Menengah
+2438;Sawangan;7;7;360;940;2700000000;Mewah
+2439;Beji;2;1;72;84;750000000;Menengah
+2440;Beji;3;2;75;96;850000000;Menengah
+2441;Pancoran Mas;4;3;120;84;1200000000;Menengah
+2442;Sawangan;3;2;68;74;499000000;Sederhana
+2443;Bojongsari;2;1;40;60;363000000;Sederhana
+2444;Cinere;4;3;150;100;875000000;Menengah
+2445;Cimanggis;3;2;160;196;1750000000;Menengah
+2446;Cilodong;2;2;90;72;425000000;Sederhana
+2447;Pancoran Mas;2;1;45;66;280000000;Sederhana
+2448;Pancoran Mas;5;2;321;255;4000000000;Mewah
+2449;Sukmajaya;2;2;90;90;500000000;Menengah
+2450;Beji;3;3;140;100;1475000000;Menengah
+2451;Cinere;4;3;115;105;1500000000;Menengah
+2452;Pancoran Mas;2;1;45;63;480000000;Sederhana
+2453;Cinere;4;3;135;125;1250000000;Menengah
+2454;Cimanggis;0;0;0;0;1190923194;Sederhana
+2455;Cinere;2;1;55;99;595000000;Menengah
+2456;Cinere;2;1;120;192;2000000000;Menengah
+2457;Sukmajaya;2;2;84;90;650000000;Menengah
+2458;Pancoran Mas;2;1;45;72;500000000;Sederhana
+2459;Tapos;3;2;84;84;950000000;Menengah
+2460;Limo;2;1;45;88;580000000;Menengah
+2461;Cinere;5;0;400;686;6000000000;Mewah
+2462;Cilodong;3;2;86;85;865000000;Menengah
+2463;Cimanggis;5;3;300;165;1850000000;Menengah
+2464;Beji;4;4;160;157;1900000000;Menengah
+2465;Sawangan;0;0;40;69;257000000;Sederhana
+2466;Cilodong;2;1;60;110;975000000;Menengah
+2467;Pancoran Mas;4;4;300;250;2250000000;Mewah
+2468;Cimanggis;3;2;110;61;700000000;Sederhana
+2469;Sawangan;2;1;36;60;300000000;Sederhana
+2470;Bojongsari;3;2;82;60;180000000;Sederhana
+2471;Pancoran Mas;4;4;90;145;900000000;Menengah
+2472;Cinere;3;3;130;144;2623885000;Menengah
+2473;Cimanggis;3;3;130;96;950000000;Menengah
+2474;Pancoran Mas;2;1;36;60;340000000;Sederhana
+2475;Cilodong;2;1;45;72;365000000;Sederhana
+2476;Cilodong;2;1;45;98;689850000;Menengah
+2477;Sawangan;2;2;42;60;500000000;Sederhana
+2478;Cinere;3;3;158;120;2100000000;Menengah
+2479;Beji;3;3;86;60;950000000;Sederhana
+2480;Limo;4;2;200;120;1100000000;Menengah
+2481;Bojongsari;2;1;62;84;335000000;Menengah
+2482;Cipayung;2;1;136;60;173000000;Sederhana
+2483;Sawangan;2;2;100;120;900000000;Menengah
+2484;Cinere;3;2;160;180;1900000000;Menengah
+2485;Cipayung;1;1;21;21;130000000;Sederhana
+2486;Cinere;3;2;70;63;950000000;Sederhana
+2487;Sawangan;4;3;350;200;1650000000;Menengah
+2488;Sawangan;1;1;50;50;170000000;Sederhana
+2489;Cimanggis;2;1;57;62;190000000;Sederhana
+2490;Cinere;4;3;500;300;4500000000;Mewah
+2491;Cimanggis;5;4;145;128;2585000000;Menengah
+2492;Cipayung;2;1;45;60;235000000;Sederhana
+2493;Sawangan;3;2;75;150;900000000;Menengah
+2494;Cilodong;5;3;350;235;2100000000;Mewah
+2495;Pancoran Mas;3;3;119;89;1200000000;Menengah
+2496;Pancoran Mas;2;1;60;60;215000000;Sederhana
+2497;Pancoran Mas;3;1;116;103;830000000;Menengah
+2498;Cilodong;0;0;0;0;139000000;Sederhana
+2499;Cinere;1;1;45;45;249500000;Sederhana
+2500;Cimanggis;5;2;200;136;1300000000;Menengah
+2501;Sawangan;2;1;50;120;670859000;Menengah
+2502;Sawangan;3;2;70;60;698500000;Sederhana
+2503;Sawangan;2;1;36;60;345000000;Sederhana
+2504;Cinere;2;1;30;50;178000000;Sederhana
+2505;Sukmajaya;3;2;55;120;1580000000;Menengah
+2506;Cipayung;2;1;45;60;235000000;Sederhana
+2507;Cinere;0;0;45;72;450000000;Sederhana
+2508;Sawangan;2;1;40;60;285000000;Sederhana
+2509;Sawangan;3;3;122;120;1451780000;Menengah
+2510;Sawangan;2;1;46;84;430000000;Menengah
+2511;Cipayung;2;1;45;66;260000000;Sederhana
+2512;Cinere;5;3;400;270;3800000000;Mewah
+2513;Cinere;4;2;400;3900;62400000000;Mewah
+2514;Pancoran Mas;2;1;36;54;270000000;Sederhana
+2515;Sawangan;2;1;70;70;350000000;Sederhana
+2516;Cimanggis;8;7;700;1350;8777999000;Mewah
+2517;Cinere;4;3;370;366;3500000000;Mewah
+2518;Pancoran Mas;3;2;90;45;610000000;Sederhana
+2519;Cipayung;2;1;33;33;218000000;Sederhana
+2520;Cimanggis;3;2;69;125;1095000000;Menengah
+2521;Sawangan;3;2;100;150;1100000000;Menengah
+2522;Sawangan;0;0;45;96;690000000;Menengah
+2523;Pancoran Mas;3;1;100;72;675000000;Sederhana
+2524;Sukmajaya;3;2;181;181;440000000;Menengah
+2525;Cilodong;3;4;150;323;1400000000;Mewah
+2526;Bojongsari;3;2;100;126;700000000;Menengah
+2527;Cinere;3;1;154;154;1500000000;Menengah
+2528;Beji;3;2;90;80;880000000;Menengah
+2529;Sukmajaya;4;2;150;84;700000000;Menengah
+2530;Pancoran Mas;2;1;45;78;550000000;Sederhana
+2531;Pancoran Mas;2;1;25;50;188000000;Sederhana
+2532;Bojongsari;3;2;82;60;180000000;Sederhana
+2533;Beji;3;2;65;76;750000000;Sederhana
+2534;Pancoran Mas;3;2;72;6000000;875000000;Mewah
+2535;Cinere;3;3;145;105;1950000000;Menengah
+2536;Cilodong;5;3;120;400;1500000000;Mewah
+2537;Tapos;3;2;110;75;690000000;Sederhana
+2538;Tapos;2;1;60;132;950000000;Menengah
+2539;Sawangan;3;2;68;131;868000000;Menengah
+2540;Cilodong;2;1;42;84;400000000;Menengah
+2541;Tapos;5;1;130;130;350000000;Menengah
+2542;Cipayung;2;1;35;60;180000000;Sederhana
+2543;Cinere;4;3;160;110;1850000000;Menengah
+2544;Cimanggis;4;3;250;200;1650000000;Menengah
+2545;Cilodong;2;1;40;56;300000000;Sederhana
+2546;Bojongsari;2;1;45;72;480000000;Sederhana
+2547;Cinere;3;2;250;510;3850000000;Mewah
+2548;Cinere;5;3;400;371;3500000000;Mewah
+2549;Pancoran Mas;2;1;60;60;230000000;Sederhana
+2550;Pancoran Mas;3;2;90;150;800000000;Menengah
+2551;Cinere;4;3;299;300;3800000000;Mewah
+2552;Cinere;2;1;54;84;325000000;Menengah
+2553;Beji;3;2;60;77;655000000;Sederhana
+2554;Sawangan;3;2;115;150;800000000;Menengah
+2555;Sawangan;2;1;36;81;469000000;Menengah
+2556;Cipayung;2;1;36;50;250000000;Sederhana
+2557;Pancoran Mas;3;2;100;165;500000000;Menengah
+2558;Pancoran Mas;0;0;21;30;115000000;Sederhana
+2559;Sukmajaya;3;1;102;102;550000000;Menengah
+2560;Cimanggis;3;2;160;300;2250000000;Mewah
+2561;Cimanggis;4;2;110;71;661000000;Sederhana
+2562;Pancoran Mas;2;2;63;72;695000000;Sederhana
+2563;Pancoran Mas;2;1;45;75;395000000;Sederhana
+2564;Cipayung;2;1;42;42;160000000;Sederhana
+2565;Sawangan;2;1;72;36;363000000;Sederhana
+2566;Cilodong;2;1;36;60;472000000;Sederhana
+2567;Cimanggis;2;2;110;117;1300000000;Menengah
+2568;Cilodong;2;1;45;62;630000000;Sederhana
+2569;Sawangan;2;1;40;52;260000000;Sederhana
+2570;Sukmajaya;4;3;140;91;830000000;Menengah
+2571;Cimanggis;2;1;45;72;954202800;Sederhana
+2572;Cimanggis;2;1;36;50;175000000;Sederhana
+2573;Cipayung;2;1;40;50;160000000;Sederhana
+2574;Sukmajaya;3;2;58;66;745000000;Sederhana
+2575;Cipayung;1;1;30;30;87000000;Sederhana
+2576;Cipayung;2;1;40;50;155000000;Sederhana
+2577;Pancoran Mas;2;1;36;50;175000000;Sederhana
+2578;Cinere;2;1;36;72;621000000;Sederhana
+2579;Cimanggis;2;1;40;124;730000000;Menengah
+2580;Cimanggis;3;2;87;63;735000000;Sederhana
+2581;Cimanggis;3;2;65;66;799000000;Sederhana
+2582;Cipayung;2;1;40;50;185000000;Sederhana
+2583;Sawangan;2;1;38;4000;500000000;Mewah
+2584;Cimanggis;2;1;60;0;800000000;Sederhana
+2585;Pancoran Mas;2;1;45;60;350000000;Sederhana
+2586;Cimanggis;3;1;45;74;599000000;Sederhana
+2587;Pancoran Mas;2;1;36;50;175000000;Sederhana
+2588;Pancoran Mas;2;1;36;50;165000000;Sederhana
+2589;Beji;3;2;80;63;560000000;Sederhana
+2590;Cimanggis;3;2;140;100;780000000;Menengah
+2591;Cinere;5;2;260;500;2600000000;Mewah
+2592;Cimanggis;2;1;303;1615;4870000000;Mewah
+2593;Pancoran Mas;5;2;125;128;1650000000;Menengah
+2594;Sawangan;0;0;0;0;1190923194;Sederhana
+2595;Pancoran Mas;3;2;80;72;795000000;Sederhana
+2596;Cipayung;2;1;30;60;280000000;Sederhana
+2597;Limo;2;2;72;72;580000000;Sederhana
+2598;Pancoran Mas;2;1;45;74;550000000;Sederhana
+2599;Sukmajaya;3;3;95;115;1050000000;Menengah
+2600;Pancoran Mas;2;1;36;50;175100000;Sederhana
+2601;Sukmajaya;4;2;125;146;1200000000;Menengah
+2602;Sawangan;3;1;90;103;400000000;Menengah
+2603;Sukmajaya;3;2;180;180;1800000000;Menengah
+2604;Tapos;2;1;30;50;255000000;Sederhana
+2605;Tapos;3;2;80;51;600000000;Sederhana
+2606;Pancoran Mas;3;2;70;80;750000000;Menengah
+2607;Pancoran Mas;2;1;36;50;250000000;Sederhana
+2608;Sawangan;2;1;36;76;400000000;Sederhana
+2609;Tapos;2;1;42;66;460000000;Sederhana
+2610;Cilodong;2;1;36;60;365000000;Sederhana
+2611;Cipayung;3;1;100;50;400000000;Sederhana
+2612;Beji;3;2;92;157;850000000;Menengah
+2613;Cinere;5;4;650;427;9000000000;Mewah
+2614;Cinere;3;3;0;111;1750000000;Menengah
+2615;Cimanggis;4;4;250;280;3750000000;Mewah
+2616;Cinere;3;3;79;90;1399000000;Menengah
+2617;Cimanggis;2;1;36;64;450000000;Sederhana
+2618;Sawangan;3;2;70;120;918500000;Menengah
+2619;Beji;4;3;160;90;1250000000;Menengah
+2620;Pancoran Mas;3;2;60;78;550000000;Sederhana
+2621;Beji;2;1;45;72;750000000;Sederhana
+2622;Cilodong;2;1;60;90;650000000;Menengah
+2623;Cinere;8;4;388;705;7750000000;Mewah
+2624;Cinere;4;3;200;600;4900000000;Mewah
+2625;Cilodong;4;2;160;200;800000000;Menengah
+2626;Cinere;3;2;220;145;1450000000;Menengah
+2627;Sawangan;3;2;70;110;600000000;Menengah
+2628;Sawangan;2;1;36;69;380000000;Sederhana
+2629;Cinere;4;3;180;234;1900000000;Mewah
+2630;Sawangan;2;2;43;50;435000000;Sederhana
+2631;Cimanggis;2;1;36;84;419200000;Menengah
+2632;Cinere;2;2;54;54;370000000;Sederhana
+2633;Cinere;5;3;160;136;1300000000;Menengah
+2634;Sawangan;3;2;120;195;750000000;Menengah
+2635;Cimanggis;3;2;72;70;750000000;Sederhana
+2636;Sukmajaya;4;2;80;100;600000000;Menengah
+2637;Bojongsari;2;2;99;114;365000000;Menengah
+2638;Sawangan;2;1;40;36;399000000;Sederhana
+2639;Cimanggis;4;2;105;60;725000000;Sederhana
+2640;Cipayung;2;1;50;66;235000000;Sederhana
+2641;Tapos;2;1;36;72;465000000;Sederhana
+2642;Cipayung;2;1;50;50;180000000;Sederhana
+2643;Cipayung;2;1;36;51;210000000;Sederhana
+2644;Cipayung;2;1;36;50;260000000;Sederhana
+2645;Bojongsari;2;1;32;72;425000000;Sederhana
+2646;Cimanggis;2;1;45;68;543000000;Sederhana
+2647;Sawangan;5;2;100;135;889000000;Menengah
+2648;Bojongsari;2;1;38;72;300000000;Sederhana
+2649;Cimanggis;2;1;30;51;175000000;Sederhana
+2650;Beji;2;2;60;90;850000000;Menengah
+2651;Cinere;3;2;90;80;935000000;Menengah
+2652;Sukmajaya;3;2;155;96;1250000000;Menengah
+2653;Cimanggis;3;2;200;521;1500000000;Mewah
+2654;Sawangan;2;1;36;84;500000000;Menengah
+2655;Tapos;1;1;70;90;720000000;Menengah
+2656;Cinere;5;2;300;255;2700000000;Mewah
+2657;Sawangan;3;2;130;120;1000000000;Menengah
+2658;Sawangan;2;1;40;67;300000000;Sederhana
+2659;Cimanggis;3;2;100;62;700000000;Sederhana
+2660;Cimanggis;0;0;153;740;5984000000;Mewah
+2661;Cimanggis;5;3;205;130;1299000000;Menengah
+2662;Cimanggis;5;2;180;230;1849500000;Mewah
+2663;Cimanggis;7;3;200;335;1200000000;Mewah
+2664;Cilodong;2;1;36;60;385000000;Sederhana
+2665;Cinere;4;3;400;1107;8500000000;Mewah
+2666;Sawangan;2;1;30;50;295000000;Sederhana
+2667;Cinere;3;4;159;85;2000000000;Menengah
+2668;Sawangan;2;1;40;60;310000000;Sederhana
+2669;Sawangan;4;3;200;120;1600000000;Menengah
+2670;Bojongsari;0;0;0;0;1190923194;Sederhana
+2671;Cimanggis;2;1;54;85;549000000;Menengah
+2672;Sukmajaya;3;3;90;180;1500000000;Menengah
+2673;Limo;3;2;70;60;600000000;Sederhana
+2674;Bojongsari;2;1;42;84;760000000;Menengah
+2675;Cipayung;2;1;45;45;170000000;Sederhana
+2676;Sawangan;2;1;75;150;930000000;Menengah
+2677;Sukmajaya;3;2;80;91;975000000;Menengah
+2678;Cimanggis;4;3;200;145;1800000000;Menengah
+2679;Bojongsari;2;1;60;120;1190923194;Menengah
+2680;Beji;4;3;140;188;1850000000;Menengah
+2681;Sawangan;4;2;383;383;2000000000;Mewah
+2682;Cimanggis;6;5;679;1024;4666600000;Mewah
+2683;Beji;2;2;45;72;975000000;Sederhana
+2684;Pancoran Mas;2;1;36;50;220000000;Sederhana
+2685;Sukmajaya;8;4;330;200;3000000000;Menengah
+2686;Cimanggis;3;1;105;192;899000000;Menengah
+2687;Cimanggis;3;2;234;222;1800000000;Mewah
+2688;Cimanggis;2;2;150;108;1000000000;Menengah
+2689;Cipayung;2;1;45;65;280000000;Sederhana
+2690;Pancoran Mas;2;1;36;50;155000000;Sederhana
+2691;Cinere;3;2;115;103;750000000;Menengah
+2692;Tapos;2;1;25;47;375000000;Sederhana
+2693;Sukmajaya;3;2;120;128;1000000000;Menengah
+2694;Sukmajaya;2;1;40;56;625000000;Sederhana
+2695;Sawangan;2;1;30;40;200000000;Sederhana
+2696;Cimanggis;3;2;150;105;900000000;Menengah
+2697;Beji;2;1;100;85;395000000;Menengah
+2698;Sukmajaya;3;2;90;90;700000000;Menengah
+2699;Cinere;6;4;351;382;3800000000;Mewah
+2700;Tapos;3;2;69;75;687600000;Sederhana
+2701;Sukmajaya;2;2;90;90;650000000;Menengah
+2702;Cinere;5;3;200;256;3500000000;Mewah
+2703;Beji;2;2;90;150;800000000;Menengah
+2704;Sawangan;2;1;55;65;650000000;Sederhana
+2705;Cipayung;2;1;55;70;330000000;Sederhana
+2706;Sawangan;5;3;190;202;1300000000;Mewah
+2707;Cimanggis;5;2;200;134;1300000000;Menengah
+2708;Pancoran Mas;2;1;75;84;650000000;Menengah
+2709;Cimanggis;4;3;105;58;700000000;Sederhana
+2710;Limo;3;2;90;147;900000000;Menengah
+2711;Pancoran Mas;3;2;55;60;599000000;Sederhana
+2712;Cimanggis;4;2;105;60;660000000;Sederhana
+2713;Sawangan;2;1;45;5000;400000000;Mewah
+2714;Pancoran Mas;2;1;39;75;387000000;Sederhana
+2715;Cimanggis;3;2;156;317;1400000000;Mewah
+2716;Cimanggis;2;1;42;72;600000000;Sederhana
+2717;Cipayung;2;1;36;40;150000000;Sederhana
+2718;Cimanggis;2;1;72;72;749000000;Sederhana
+2719;Cimanggis;3;2;48;80;550000000;Menengah
+2720;Tapos;0;0;21;30;140000000;Sederhana
+2721;Sukmajaya;2;2;90;90;650000000;Menengah
+2722;Sukmajaya;2;2;90;90;600000000;Menengah
+2723;Cinere;5;4;124;120;1594081800;Menengah
+2724;Cimanggis;3;2;85;65;785000000;Sederhana
+2725;Limo;2;1;50;70;570000000;Sederhana
+2726;Cinere;3;3;380;684;2975000000;Mewah
+2727;Cinere;3;3;94;74;1550000000;Sederhana
+2728;Cipayung;3;2;70;60;265000000;Sederhana
+2729;Pancoran Mas;5;3;250;486;5250000000;Mewah
+2730;Cimanggis;14;7;1500;1100;7500000000;Mewah
+2731;Tapos;2;1;40;66;450000000;Sederhana
+2732;Cinere;2;1;40;40;150000000;Sederhana
+2733;Cimanggis;3;2;200;342;2700000000;Mewah
+2734;Pancoran Mas;3;2;80;72;780000000;Sederhana
+2735;Pancoran Mas;2;2;130;147;630000000;Menengah
+2736;Tapos;3;2;141;141;600000000;Menengah
+2737;Cimanggis;5;2;260;130;1400000000;Menengah
+2738;Tapos;2;1;36;106;390000000;Menengah
+2739;Cinere;6;3;507;1386;16500000000;Mewah
+2740;Pancoran Mas;3;2;140;247;1290000000;Mewah
+2741;Sawangan;2;1;39;66;409000000;Sederhana
+2742;Sawangan;2;1;36;74;411700974;Sederhana
+2743;Pancoran Mas;3;2;300;550;4750000000;Mewah
+2744;Sukmajaya;2;1;50;84;450000000;Menengah
+2745;Cimanggis;4;2;125;137;1600000000;Menengah
+2746;Cinere;2;2;180;250;2000000000;Mewah
+2747;Cimanggis;3;3;101.8;112;1818770000;Menengah
+2748;Beji;4;3;154;113;1190923194;Menengah
+2749;Cimanggis;3;2;300;160;1300000000;Menengah
+2750;Cimanggis;3;2;150;75;1100000000;Sederhana
+2751;Sawangan;1;1;45;50;185000000;Sederhana
+2752;Beji;3;2;55;70;818000000;Sederhana
+2753;Sukmajaya;8;7;1030;1195;13000000000;Mewah
+2754;Cipayung;2;1;45;60;250000000;Sederhana
+2755;Sukmajaya;3;2;125;186;1160000000;Menengah
+2756;Cipayung;2;1;36;50;170000000;Sederhana
+2757;Pancoran Mas;6;4;360;420;6850000000;Mewah
+2758;Cimanggis;4;3;184;120;1450000000;Menengah
+2759;Cimanggis;3;3;150;180;1250000000;Menengah
+2760;Sukmajaya;2;1;90;96;400000000;Menengah
+2761;Sukmajaya;4;3;124;100;1940000000;Menengah
+2762;Cilodong;2;1;60;87;565000000;Menengah
+2763;Cipayung;2;1;45;60;250000000;Sederhana
+2764;Sukmajaya;8;7;1030;1195;13000000000;Mewah
+2765;Beji;3;2;55;70;818000000;Sederhana
+2766;Sukmajaya;3;2;125;186;1160000000;Menengah
+2767;Cimanggis;3;3;75;85;895000000;Menengah
+2768;Bojongsari;2;1;42;66;399000000;Sederhana
+2769;Sawangan;1;1;45;50;185000000;Sederhana
+2770;Cipayung;2;1;40;60;220000000;Sederhana
+2771;Pancoran Mas;2;1;30;32;175000000;Sederhana
+2772;Cimanggis;3;2;200;521;1400000000;Mewah
+2773;Cinere;1;1;300;689;5000000000;Mewah
+2774;Beji;3;3;147;122;1850000000;Menengah
+2775;Pancoran Mas;0;0;36;60;300000000;Sederhana
+2776;Sawangan;2;1;36;75;334000000;Sederhana
+2777;Cilodong;2;1;36;72;400000000;Sederhana
+2778;Cimanggis;4;3;184;120;1450000000;Menengah
+2779;Beji;2;2;121;90;1450000000;Menengah
+2780;Cipayung;2;1;36;50;170000000;Sederhana
+2781;Pancoran Mas;6;4;360;420;6850000000;Mewah
+2782;Beji;4;3;180;200;1800000000;Menengah
+2783;Sawangan;2;1;36;60;275000000;Sederhana
+2784;Cimanggis;5;2;200;126;1290000000;Menengah
+2785;Sukmajaya;3;2;80;140;880000000;Menengah
+2786;Cipayung;4;3;150;115;990000000;Menengah
+2787;Bojongsari;2;1;45;60;310000000;Sederhana
+2788;Pancoran Mas;2;1;36;61;475000000;Sederhana
+2789;Sawangan;2;1;40;45;190000000;Sederhana
+2790;Cimanggis;3;2;80;37;600000000;Sederhana
+2791;Cilodong;3;2;77;140;1000000000;Menengah
+2792;Limo;2;1;45;120;520000000;Menengah
+2793;Pancoran Mas;3;3;180;100;1100000000;Menengah
+2794;Cilodong;2;2;34;77;900350000;Sederhana
+2795;Pancoran Mas;3;2;78;78;501000000;Sederhana
+2796;Cinere;4;5;348;420;4000000000;Mewah
+2797;Cinere;5;5;350;200;2500000000;Menengah
+2798;Tapos;2;1;36;70;275000000;Sederhana
+2799;Cinere;4;4;145;91;3100000000;Menengah
+2800;Pancoran Mas;2;1;55;88;585000000;Menengah
+2801;Limo;2;1;45;1000;299000000;Mewah
+2802;Cinere;4;4;200;198;2700000000;Menengah
+2803;Sukmajaya;4;3;220;110;1200000000;Menengah
+2804;Beji;3;2;125;105;1380000000;Menengah
+2805;Beji;3;2;42;155;950000000;Menengah
+2806;Sukmajaya;6;4;285;180;1900000000;Menengah
+2807;Cipayung;2;1;45;45;170000000;Sederhana
+2808;Sawangan;2;1;50;65;650000000;Sederhana
+2809;Beji;3;3;140;84;900000000;Menengah
+2810;Pancoran Mas;2;1;30;50;198000000;Sederhana
+2811;Beji;2;1;48;93;640000000;Menengah
+2812;Beji;2;1;36;45;575000000;Sederhana
+2813;Tapos;4;2;104;117;1000000000;Menengah
+2814;Sawangan;3;2;90;95;1200000000;Menengah
+2815;Cilodong;2;1;45;84;540000000;Menengah
+2816;Cilodong;2;1;36;50;320000000;Sederhana
+2817;Pancoran Mas;3;2;80;72;780000000;Sederhana
+2818;Tapos;5;2;600;1500;6000000000;Mewah
+2819;Pancoran Mas;2;1;50;78;712615000;Sederhana
+2820;Cinere;5;3;300;540;5500000000;Mewah
+2821;Cinere;5;3;300;540;5500000000;Mewah
+2822;Cilodong;2;1;45;72;450000000;Sederhana
+2823;Limo;2;1;32;72;490000000;Sederhana
+2824;Cilodong;2;1;36;72;420000000;Sederhana
+2825;Cinere;3;2;115;115;1400000000;Menengah
+2826;Sawangan;2;1;46;90;599750000;Menengah
+2827;Cinere;3;2;180;230;3000000000;Mewah
+2828;Pancoran Mas;4;3;108;180;1100000000;Menengah
+2829;Sawangan;2;1;40;61;285000000;Sederhana
+2830;Cinere;2;1;40;40;135000000;Sederhana
+2831;Limo;3;1;60;91;650000000;Menengah
+2832;Pancoran Mas;2;1;40;50;155000000;Sederhana
+2833;Sawangan;3;2;70;84;670000000;Menengah
+2834;Cipayung;2;1;40;40;160000000;Sederhana
+2835;Pancoran Mas;2;1;54;74;400000000;Sederhana
+2836;Beji;3;2;75;60;1162500000;Sederhana
+2837;Sawangan;2;1;36;74;400000000;Sederhana
+2838;Sukmajaya;3;2;90;135;925000000;Menengah
+2839;Tapos;3;2;60;100;600000000;Menengah
+2840;Sukmajaya;2;1;80;60;550000000;Sederhana
+2841;Cilodong;3;2;70;66;750000000;Sederhana
+2842;Cinere;2;1;30;50;235000000;Sederhana
+2843;Sawangan;2;1;45;94;610020000;Menengah
+2844;Cinere;2;2;60;72;987000000;Sederhana
+2845;Tapos;4;3;153;200;950000000;Menengah
+2846;Beji;3;3;85;72;1168000000;Sederhana
+2847;Cinere;5;3;300;263;2500000000;Mewah
+2848;Cipayung;2;1;40;40;150000000;Sederhana
+2849;Sawangan;3;2;70;84;650000000;Menengah
+2850;Pancoran Mas;2;1;36;72;500000000;Sederhana
+2851;Sawangan;5;2;515;847;2900000000;Mewah
+2852;Cilodong;2;1;36;70;357000000;Sederhana
+2853;Pancoran Mas;4;3;250;150;1375000000;Menengah
+2854;Cinere;6;6;300;527;15458000000;Mewah
+2855;Cinere;4;5;154;200;1980000000;Menengah
+2856;Sukmajaya;3;2;140;91;850000000;Menengah
+2857;Limo;3;1;60;75;680000000;Sederhana
+2858;Cinere;4;3;200;198;2900000000;Menengah
+2859;Cipayung;3;3;90;91;936000000;Menengah
+2860;Pancoran Mas;2;1;45;60;300000000;Sederhana
+2861;Cipayung;2;1;45;45;170000000;Sederhana
+2862;Cinere;4;3;200;250;2700000000;Mewah
+2863;Pancoran Mas;2;1;36;69;458000000;Sederhana
+2864;Pancoran Mas;2;1;60;90;260000000;Menengah
+2865;Sawangan;2;1;50;120;670859000;Menengah
+2866;Cinere;3;1;60;65;160000000;Sederhana
+2867;Cipayung;2;1;36;50;251000000;Sederhana
+2868;Cimanggis;2;2;70;90;930000000;Menengah
+2869;Cipayung;2;1;40;60;170000000;Sederhana
+2870;Sawangan;2;1;52;125;550000000;Menengah
+2871;Pancoran Mas;2;1;36;50;250000000;Sederhana
+2872;Cinere;4;4;220;240;2800000000;Mewah
+2873;Tapos;2;1;44;66;385000000;Sederhana
+2874;Beji;3;3;80;172;1100000000;Menengah
+2875;Cimanggis;2;1;42;73;777545000;Sederhana
+2876;Cimanggis;2;1;42;1;690000000;Sederhana
+2877;Sawangan;2;1;42;72;55000000;Sederhana
+2878;Pancoran Mas;3;2;100;155;500000000;Menengah
+2879;Sukmajaya;3;3;100;150;1300000000;Menengah
+2880;Beji;2;2;77;737;3200000000;Mewah
+2881;Pancoran Mas;3;2;100;155;500000000;Menengah
+2882;Sukmajaya;3;3;100;150;1300000000;Menengah
+2883;Beji;3;3;80;172;1100000000;Menengah
+2884;Tapos;2;1;44;66;385000000;Sederhana
+2885;Tapos;2;1;36;66;357000000;Sederhana
+2886;Cinere;2;1;30;50;299700000;Sederhana
+2887;Sawangan;2;1;42;72;55000000;Sederhana
+2888;Cinere;3;2;221;422;4900000000;Mewah
+2889;Cinere;3;3;200;128;2200000000;Menengah
+2890;Cinere;5;5;550;1170;6000000000;Mewah
+2891;Beji;3;3;90;60;875000000;Sederhana
+2892;Cipayung;2;1;30;60;290000000;Sederhana
+2893;Cinere;4;3;800;2010;15000000000;Mewah
+2894;Sawangan;2;1;36;60;255000000;Sederhana
+2895;Cinere;2;1;61;40;690000000;Sederhana
+2896;Cipayung;2;1;36;40;150000000;Sederhana
+2897;Cipayung;2;1;52;52;150000000;Sederhana
+2898;Cimanggis;3;2;200;521;1500000005;Mewah
+2899;Sawangan;0;0;1;1987;2583100000;Mewah
+2900;Cipayung;2;2;65;60;400000000;Sederhana
+2901;Cipayung;2;1;45;27;1190923194;Sederhana
+2902;Cimanggis;2;1;42;70;468000000;Sederhana
+2903;Cilodong;7;5;180;220;1450000000;Mewah
+2904;Bojongsari;3;2;63;84;625000000;Menengah
+2905;Cinere;0;0;150;270;1620000000;Mewah
+2906;Cinere;2;1;25;50;188000000;Sederhana
+2907;Cinere;4;4;250;448;5000000000;Mewah
+2908;Cipayung;2;1;40;50;150000000;Sederhana
+2909;Tapos;3;2;94;66;875000000;Sederhana
+2910;Cilodong;2;1;45;72;550000000;Sederhana
+2911;Bojongsari;3;2;63;84;625000000;Menengah
+2912;Beji;5;5;160;158;1900000000;Menengah
+2913;Cinere;2;2;130;154;2200000000;Menengah
+2914;Cinere;3;2;200;150;2000000000;Menengah
+2915;Cimanggis;2;1;30;30;125000000;Sederhana
+2916;Cinere;4;3;120;90;1600000000;Menengah
+2917;Cinere;4;4;222;180;3861594000;Menengah
+2918;Cimanggis;3;2;200;521;1500000005;Mewah
+2919;Cipayung;2;2;65;60;400000000;Sederhana
+2920;Cipayung;2;1;45;27;1190923194;Sederhana
+2921;Cinere;2;1;25;50;188000000;Sederhana
+2922;Sawangan;2;1;36;64;275000000;Sederhana
+2923;Beji;4;2;70;72;500000000;Sederhana
+2924;Cinere;4;3;350;500;3500000000;Mewah
+2925;Beji;3;2;80;60;900000000;Sederhana
+2926;Cinere;7;3;500;324;2700000000;Mewah
+2927;Cilodong;2;1;45;72;550000000;Sederhana
+2928;Beji;6;5;600;642;9500000000;Mewah
+2929;Cilodong;1;1;24;27;158000000;Sederhana
+2930;Cipayung;2;1;65;109;700000000;Menengah
+2931;Cipayung;2;1;48;75;255000000;Sederhana
+2932;Sawangan;2;2;50;43;435000000;Sederhana
+2933;Cimanggis;3;2;144;78;975000000;Sederhana
+2934;Pancoran Mas;3;3;114;84;1200000000;Menengah
+2935;Cipayung;2;1;73;73;375000000;Sederhana
+2936;Cipayung;2;1;40;50;160000000;Sederhana
+2937;Sawangan;2;1;36;81;365000000;Menengah
+2938;Beji;4;4;200;189;1500000000;Menengah
+2939;Cimanggis;2;1;42;82;809630000;Menengah
+2940;Cimanggis;2;1;54;120;943000000;Menengah
+2941;Sawangan;2;1;36;81;365000000;Menengah
+2942;Cipayung;2;1;40;50;160000000;Sederhana
+2943;Cipayung;2;1;48;75;255000000;Sederhana
+2944;Sawangan;2;2;50;43;435000000;Sederhana
+2945;Cipayung;2;1;65;109;700000000;Menengah
+2946;Cinere;3;2;55;70;998500000;Sederhana
+2947;Bojongsari;3;2;45;87;810000000;Menengah
+2948;Sawangan;2;1;135;407;1800000000;Mewah
+2949;Cimanggis;3;2;144;78;975000000;Sederhana
+2950;Pancoran Mas;4;4;100;200;650000000;Menengah
+2951;Pancoran Mas;3;3;114;84;1200000000;Menengah
+2952;Cipayung;2;1;73;73;375000000;Sederhana
+2953;Cimanggis;4;3;800;1400;21000000000;Mewah
+2954;Sawangan;2;2;48;76;375000000;Sederhana
+2955;Cilodong;2;1;36;50;288000000;Sederhana
+2956;Beji;4;4;250;385;1950000000;Mewah
+2957;Beji;3;2;64;64;875000000;Sederhana
+2958;Sawangan;2;1;45;74;410000000;Sederhana
+2959;Cipayung;2;1;45;66;350000000;Sederhana
+2960;Sawangan;2;1;39;63;435000000;Sederhana
+2961;Sawangan;4;4;250;814;2300000000;Mewah
+2962;Sawangan;2;1;36;72;500000000;Sederhana
+2963;Sawangan;2;1;38;83;600000000;Menengah
+2964;Sawangan;3;2;63;90;998000000;Menengah
+2965;Cimanggis;2;1;42;82;809630000;Menengah
+2966;Cipayung;2;1;55;55;160000000;Sederhana
+2967;Cinere;3;3;170;220;1500000000;Mewah
+2968;Cinere;4;3;165;120;1300000000;Menengah
+2969;Cipayung;2;1;36;60;349100000;Sederhana
+2970;Cinere;3;2;150;216;2100000000;Mewah
+2971;Cipayung;2;1;36;60;349100000;Sederhana
+2972;Pancoran Mas;3;2;100;125;1100000000;Menengah
+2973;Beji;3;3;90;60;900000000;Sederhana
+2974;Cilodong;2;1;36;66;325000000;Sederhana
+2975;Cipayung;1;1;36;50;174000000;Sederhana
+2976;Cilodong;3;2;120;108;700000000;Menengah
+2977;Cinere;3;3;170;220;1500000000;Mewah
+2978;Cinere;4;3;165;120;1300000000;Menengah
+2979;Cimanggis;4;2;70;120;850000000;Menengah
+2980;Cinere;4;3;180;108;2250000000;Menengah
+2981;Sawangan;2;1;40;67;400000000;Sederhana
+2982;Cinere;2;2;60;50;840000000;Sederhana
+2983;Limo;3;2;65;100;540000000;Menengah
+2984;Limo;2;1;45;72;365000000;Sederhana
+2985;Sukmajaya;3;2;58;58;735000000;Sederhana
+2986;Cimanggis;3;2;115;100;1300000000;Menengah
+2987;Cimanggis;5;2;135;200;1400000000;Menengah
+2988;Cipayung;2;1;40;70;275000000;Sederhana
+2989;Cimanggis;4;2;193;278;2400000000;Mewah
+2990;Cinere;2;1;36;91;677000000;Menengah
+2991;Sawangan;2;1;36;61;373117500;Sederhana
+2992;Cinere;4;3;115;105;1350000000;Menengah
+2993;Sawangan;2;1;85;105;850000000;Menengah
+2994;Pancoran Mas;4;2;97;170;899000000;Menengah
+2995;Cipayung;2;1;50;50;160000000;Sederhana
+2996;Beji;4;4;130;86;1200000000;Menengah
+2997;Sukmajaya;3;2;65;120;1200000000;Menengah
+2998;Cinere;3;2;100;172;1350000000;Menengah
+2999;Cipayung;2;1;40;40;155000000;Sederhana
+3000;Cipayung;2;1;40;60;235000000;Sederhana
